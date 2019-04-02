@@ -31,9 +31,10 @@ np.random.seed(42)
 def my_basename(path):
     return os.path.splitext(os.path.split(path)[1])[0]
 
+file_dir=r'C:/Users/M-RAM/PycharmProjects/InternshipNaturalis/github_trait_geo_diverse_dl/trait-geo-diverse-dl'
 
 def main():
-    table = pd.read_csv("../data/spec_occ_env/Hippotragus_equinus_env_dataframe.csv")
+    table = pd.read_csv(file_dir+"/data/capriolus_trial/Capriolus_capriolus_env_dataframe.csv")
     # at 40 degrees latitude
     bin_size_km = 5
     one_degree_latitude_km = 111.03  # http://www.longitudestore.com/how-big-is-one-gps-degree.html
