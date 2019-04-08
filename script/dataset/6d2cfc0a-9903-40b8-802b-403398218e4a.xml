@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6d2cfc0a-9903-40b8-802b-403398218e4a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dx3rcj</alternateIdentifier>
+        <alternateIdentifier>https://ipt.lsa.umich.edu/resource?r=ummz_mammals</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=ummz_mammals</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=ummz_mammals</alternateIdentifier>
+        <alternateIdentifier>6d2cfc0a-9903-40b8-802b-403398218e4a</alternateIdentifier>
+        <alternateIdentifier>14845</alternateIdentifier>
+    <title>University of Michigan Museum of Zoology, Division of Mammals</title>
+    <creator>
+    <individualName>
+          <surName>UMMZ Mammals Data Group</surName>
+    </individualName>
+<organizationName>UM MUSEUM OF ZOOLOGY</organizationName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>ANN ARBOR</city><administrativeArea>Michigan</administrativeArea><postalCode>48108</postalCode><country>UNITED_STATES</country>    </address>
+<phone>734.764.0476</phone><electronicMailAddress>ummz-mammals-data@umich.edu</electronicMailAddress><onlineUrl>https://lsa.umich.edu/ummz/mammals.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<organizationName>UM College of LSA</organizationName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<organizationName>UM College of LSA</organizationName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/lsait/</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-17
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Through the efforts of University of Michigan faculty-curators and staff, the Museum of Zoology (UMMZ) develops and maintains excellent zoological collections explicitly for use in research and education benefiting science, society, and the university.
+
+The Mammal Division of the Museum of Zoology was established in 1837, and has grown steadily to its current size, with over 150,000 specimens. An important feature of the mammal collection at the Museum of Zoology is our emphasis on non-traditional specimens; that is, preparations that go beyond or replace the traditional skin and skull. Our fluid collection numbers over 15,000 specimens.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://lsa.umich.edu/ummz/mammals.html</url>
+          </online>
+      </distribution>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>UMMZ Mammals Data Group</surName>
+    </individualName>
+<organizationName>UM MUSEUM OF ZOOLOGY</organizationName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>ANN ARBOR</city><administrativeArea>Michigan</administrativeArea><postalCode>48108</postalCode><country>UNITED_STATES</country>    </address>
+<phone>734.764.0476</phone><electronicMailAddress>ummz-mammals-data@umich.edu</electronicMailAddress><onlineUrl>https://lsa.umich.edu/ummz/mammals.html</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>University of Michigan Museum of Zoology (2019). University of Michigan Museum of Zoology, Division of Mammals. Version 8.5. Occurrence dataset https://doi.org/10.15468/dx3rcj accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

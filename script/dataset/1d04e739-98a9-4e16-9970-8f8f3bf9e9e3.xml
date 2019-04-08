@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1d04e739-98a9-4e16-9970-8f8f3bf9e9e3"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a3woj7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource?r=kubi_mammals</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_mammals</alternateIdentifier>
+        <alternateIdentifier>1d04e739-98a9-4e16-9970-8f8f3bf9e9e3</alternateIdentifier>
+        <alternateIdentifier>14480</alternateIdentifier>
+    <title>KUBI Mammalogy Collection</title>
+    <creator>
+    <individualName>
+<givenName>Norm</givenName>          <surName>Slade</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator Emeritus of Mammalogy</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3673</phone><electronicMailAddress>slade@ku.edu</electronicMailAddress><onlineUrl>http://mammalogy.biodiversity.ku.edu/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Norm</givenName>          <surName>Slade</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator Emeritus of Mammalogy</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3673</phone><electronicMailAddress>slade@ku.edu</electronicMailAddress><onlineUrl>http://mammalogy.biodiversity.ku.edu/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@ku.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Timm</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3047</phone><electronicMailAddress>btimm@ku.edu</electronicMailAddress><onlineUrl>http://mammalogy.biodiversity.ku.edu</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The mammal collection at the University of Kansas Natural History Museum is one of the world&amp;#39;s largest (the fifth largest mammal collection in North America and the third largest university collection in the world).  The most common preparation type is a prepared skin, with the skull cleaned and stored in a separated container (our preparation code is SS).  Second-most common is a skin with the entire skeleton cleaned and stored separately (SB).  Some specimens consist only of a skull (SK) or cranium (CO).  Other specimens may consist of a partial skeleton (PS), an entire skeleton (SN) or only a skin (SO).  Many of our specimens are stored in alcohol (AL), or are in alcohol with the skull removed and cleaned (SA).  Tissues associated with any of these preparation types are noted as a separate field in our database.  Because there are active public education and exhibits programs in the KU Natural History Museum, a few of our specimens are taxidermy mounts (BM) and some are housed permanently on exhibit.  Other preparation types are coded as “other” (OT).  Occasionally, specimens are prepared with the baculum or os clitoris and separately stored in preserving fluid.  Non-standard preparation types and additional materials are noted in a comments field in our database.&lt;br /&gt;&lt;br /&gt;
+
+
+We have extensive historical collections from Central America, Mexico, and southeast, central, western regions of the United States and Alaska.  We recently added outstanding collections from the Philippines and New Guinea.  We anticipate continuing to maintain our strengths in these geographic regions, emphasizing bats, rodents and insectivores—current taxonomic strengths.  Most of our collection consists of nicely prepared skins, skulls, and complete skeletons, with most recent specimens accompanied by tissues.&lt;br /&gt;&lt;br /&gt;
+
+There are 135 type specimens in our collection at present.  Of these, the largest number (97) are rodents.  There are also 6 insectivore, 25 bat, 5 lagomorph, and 2 carnivore holotypes.  Lists of the Mammalogy&amp;#39;s type specimens have been published by Jones and Genoways (1969) and Jones et al. (1984), although several have been described since.  Types have been described from Barbados, Canada, Chile, Costa Rica, Cuba, Guatemala, Honduras, Mexico (14 states), Mozambique, Nicaragua, Philippines, Venezuela, Martinique, St. Lucia, St. Vincent, and from 12 states in the U.S.  All type specimens are kept in the designated &amp;#34;type case&amp;#34; at all times.  Use of type specimens must be arranged with the curators.&lt;br /&gt; &lt;br /&gt;
+
+There is broad taxonomic coverage, including important holdings of Central and South American marsupials, insectivores, bats, rodents; Holarctic shrews, microtines, squirrels and North American bats, insectivores, carnivores, rodents and lagomorphs.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://biodiversity.ku.edu/research/university-kansas-biodiversity-institute-data-publication-and-use-norms</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://biodiversity.ku.edu/mammalogy/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens from all continents except Antarctica, predominantly from the Americas.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All orders of mammals are represented.  Bats, rodents, insectivores, ungulates, and carnivores are the predominant groups.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Chiroptera</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Norm</givenName>          <surName>Slade</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator Emeritus of Mammalogy</positionName>    <address>
+<deliveryPoint>1345 Jayhawk Blvd</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785-864-3673</phone><electronicMailAddress>slade@ku.edu</electronicMailAddress><onlineUrl>http://mammalogy.biodiversity.ku.edu/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>Slade N (2019). KUBI Mammalogy Collection. Version 26.20. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/a3woj7 accessed via GBIF.org on 2019-04-05.</citation>
+              <collection>
+                <parentCollectionIdentifier>KUBI Mammalogy Collection</parentCollectionIdentifier>
+                <collectionIdentifier>Skins, skulls, and skeletons</collectionIdentifier>
+                <collectionName>Mammals, University of Kansas</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

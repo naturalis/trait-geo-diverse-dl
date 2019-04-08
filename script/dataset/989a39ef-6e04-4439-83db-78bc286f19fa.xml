@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="989a39ef-6e04-4439-83db-78bc286f19fa"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/q0dhpr</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr1030</alternateIdentifier>
+        <alternateIdentifier>d6a0a920-e11f-353e-8dcc-fe5e1c525a93</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr1030</alternateIdentifier>
+        <alternateIdentifier>989a39ef-6e04-4439-83db-78bc286f19fa</alternateIdentifier>
+        <alternateIdentifier>78aa4a87-668f-3638-8308-68978fe7ee06</alternateIdentifier>
+        <alternateIdentifier>3e61d472-dc4e-3845-ad58-212645b5db33</alternateIdentifier>
+    <title>Bush Heritage - Carnarvon Station Reserve</title>
+    <creator>
+<organizationName>Bush Heritage - Carnarvon Station Reserve</organizationName><onlineUrl>http://www.bushheritage.org.au/places-we-protect/state_queensland/reserves_carnarvon</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Bush Heritage - Carnarvon Station Reserve</organizationName><onlineUrl>http://www.bushheritage.org.au/places-we-protect/state_queensland/reserves_carnarvon</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Photos taken during the field work for a herbarium of pressed plant specimens for Carnarvon Station Reserve</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr1030</url>
+          </online>
+      </distribution>
+      <contact>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:33:54Z</dateStamp>
+      <citation>Atlas of Living Australia (2018). Bush Heritage - Carnarvon Station Reserve. Occurrence dataset https://doi.org/10.15468/q0dhpr accessed via GBIF.org on 2019-04-05.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/bha-logo_203px.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

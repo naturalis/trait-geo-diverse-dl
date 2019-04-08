@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="96275bf2-8999-4869-95d5-4903a84391b0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/2swesj</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=uaz_mammals</alternateIdentifier>
+        <alternateIdentifier>96275bf2-8999-4869-95d5-4903a84391b0</alternateIdentifier>
+    <title>UAZ Mammals</title>
+    <creator>
+    <individualName>
+<givenName>Melanie</givenName>          <surName>Bucci</surName>
+    </individualName>
+<organizationName>University of Arizona Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Rm. 310 Bioscience West, The University of Arizona</deliveryPoint><city>Tucson</city><administrativeArea>Arizona</administrativeArea><postalCode>85721</postalCode><country>UNITED_STATES</country>    </address>
+<phone>520-621-7291</phone><electronicMailAddress>mebucci@email.arizona.edu</electronicMailAddress><onlineUrl>http://www.eebweb.arizona.edu/Collections/Mammal.htm</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Melanie</givenName>          <surName>Bucci</surName>
+    </individualName>
+<organizationName>University of Arizona Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Rm. 310 Bioscience West, The University of Arizona</deliveryPoint><city>Tucson</city><administrativeArea>Arizona</administrativeArea><postalCode>85721</postalCode><country>UNITED_STATES</country>    </address>
+<phone>520-621-7291</phone><electronicMailAddress>mebucci@email.arizona.edu</electronicMailAddress><onlineUrl>http://www.eebweb.arizona.edu/Collections/Mammal.htm</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org/</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org/</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress><onlineUrl>http://www.vertnet.org/</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Reinthal</surName>
+    </individualName>
+<organizationName>University of Arizona Museum of Natural History</organizationName><positionName>Associate Curator</positionName>    <address>
+<deliveryPoint>Rm. 310, BioSciences West, The University of Arizona</deliveryPoint><city>Tucson</city><administrativeArea>Arizona</administrativeArea><postalCode>95721</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(520) 621-7518</phone><electronicMailAddress>pnr@u.arizona.edu</electronicMailAddress><onlineUrl>http://www.eebweb.arizona.edu/Collections/Mammal.htm</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Mammal Collection contains over 25,000 specimens including skins and skeletons. Its main geographic coverage is Arizona and Sonora but there is also broad, worldwide representation at the family level. This is the largest mammal collection in the state, and it has ranked 21st in size among all North American collections of Recent mammals. The Mammal Collection was built by several individuals starting with Herbert Brown around the turn of the century. In particular, Emeritus Professor Lendell Cockrum was its main developer and he continues to be actively interested in the collection. Dr. Yar Petryszyn recently retired as Collection Manager. Dr. Michael Nachman is the Curator of Mammalogy.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.eebweb.arizona.edu/Collections/Mammal.htm</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global coverage with an emphasis on Arizona and Sonora.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Melanie</givenName>          <surName>Bucci</surName>
+    </individualName>
+<organizationName>University of Arizona Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Rm. 310 Bioscience West, The University of Arizona</deliveryPoint><city>Tucson</city><administrativeArea>Arizona</administrativeArea><postalCode>85721</postalCode><country>UNITED_STATES</country>    </address>
+<phone>520-621-7291</phone><electronicMailAddress>mebucci@email.arizona.edu</electronicMailAddress><onlineUrl>http://www.eebweb.arizona.edu/Collections/Mammal.htm</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:05Z</dateStamp>
+      <citation>Bucci M (2016). UAZ Mammals. Version 5.1. University of Arizona Museum of Natural History. Occurrence dataset https://doi.org/10.15468/2swesj accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

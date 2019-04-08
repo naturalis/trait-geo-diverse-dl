@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5288946d-5fcf-4b53-8fd3-74f4cc6b53fc"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/w35jmd</alternateIdentifier>
+        <alternateIdentifier>http://gbifdata.eeb.uconn.edu:7001/ipt/resource.do?r=conn</alternateIdentifier>
+        <alternateIdentifier>5288946d-5fcf-4b53-8fd3-74f4cc6b53fc</alternateIdentifier>
+        <alternateIdentifier>13544</alternateIdentifier>
+    <title>CONN</title>
+    <creator>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Capers</surName>
+    </individualName>
+<organizationName>University of Connecticut</organizationName><positionName>Plant collections manager</positionName>    <address>
+<deliveryPoint>75 N. Eagleville Road</deliveryPoint><city>Storrs</city><administrativeArea>CT</administrativeArea><postalCode>06269-3043</postalCode><country>UNITED_STATES</country>    </address>
+<phone>860-486-1889</phone><electronicMailAddress>robert.capers@uconn.edu</electronicMailAddress><onlineUrl>http://bgbaseserver.eeb.uconn.edu/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Capers</surName>
+    </individualName>
+<organizationName>University of Connecticut</organizationName><positionName>Plant collections manager</positionName>    <address>
+<deliveryPoint>75 N. Eagleville Road</deliveryPoint><city>Storrs</city><administrativeArea>CT</administrativeArea><postalCode>06269-3043</postalCode><country>UNITED_STATES</country>    </address>
+<phone>860-486-1889</phone><electronicMailAddress>robert.capers@uconn.edu</electronicMailAddress><onlineUrl>http://bgbaseserver.eeb.uconn.edu/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2014-08-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>George Safford Torrey Herbarium specimens</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://bgbaseserver.eeb.uconn.edu/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Coverage of the herbarium is global, although the majority of the specimens are from the United States, particularly the Northeast.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>85</northBoundingCoordinate>
+                      <southBoundingCoordinate>-85</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1815
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1815
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Capers</surName>
+    </individualName>
+<organizationName>University of Connecticut</organizationName><positionName>Plant collections manager</positionName>    <address>
+<deliveryPoint>75 N. Eagleville Road</deliveryPoint><city>Storrs</city><administrativeArea>CT</administrativeArea><postalCode>06269-3043</postalCode><country>UNITED_STATES</country>    </address>
+<phone>860-486-1889</phone><electronicMailAddress>robert.capers@uconn.edu</electronicMailAddress><onlineUrl>http://bgbaseserver.eeb.uconn.edu/</onlineUrl>      </contact>
+      <methods>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para></para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Database records are based entirely on plant specimens on deposit at CONN.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:33:53Z</dateStamp>
+      <citation identifier="http://bgbaseserver.eeb.uconn.edu/">Capers R (2014). CONN. University of Connecticut. Occurrence dataset https://doi.org/10.15468/w35jmd accessed via GBIF.org on 2019-04-05.</citation>
+              <resourceLogoUrl>http://137.99.46.32:7001/ipt/logo.do?r=conn</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>UConn</parentCollectionIdentifier>
+                <collectionIdentifier>CONN</collectionIdentifier>
+                <collectionName>George Safford Torrey Herbarium (CONN) vascular plants</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

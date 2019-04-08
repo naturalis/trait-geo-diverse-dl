@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b15d4952-7d20-46f1-8a3e-556a512b04c5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/oirgxw</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=msb_mamm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=msb_mamm</alternateIdentifier>
+        <alternateIdentifier>b15d4952-7d20-46f1-8a3e-556a512b04c5</alternateIdentifier>
+        <alternateIdentifier>14904</alternateIdentifier>
+    <title>MSB Mammal Collection (Arctos)</title>
+    <creator>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Cook</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Mammals</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-1358</phone><electronicMailAddress>cookjose@unm.edu</electronicMailAddress><onlineUrl>http://www.msb.unm.edu/mammals/Cook/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Cook</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Mammals</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-1358</phone><electronicMailAddress>cookjose@unm.edu</electronicMailAddress><onlineUrl>http://www.msb.unm.edu/mammals/Cook/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dusty</givenName>          <surName>McDonald</surName>
+    </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jon</givenName>          <surName>Dunnum</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Collection Manager, Mammals</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-9262</phone><electronicMailAddress>jldunnum@unm.edu</electronicMailAddress><onlineUrl>http://www.msb.unm.edu/mammals/JLDpage.htm</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The MSB Division of Mammals contains over 250,000 catalogued specimens and is among the five largest in the world. Specimens date back to the 1890&amp;#39;s with the majority documenting the rapid environmental change that has occurred since 1950. The collection contains 16 holotypes, 6 paratypes, 1 syntype, 93 symbiotypes. Important collections integrated into the MSB include the USGS Biological Surveys collection (26,000), the UIMNH (Hoffmeister) Collection (33,000), and the Rausch Collection (4,000 specimens and parasites). Specimens range from traditional skin/skull and fluid vouchers to &amp;#34;holistic vouchers&amp;#34; containing skin, skull, post-cranial skeleton, up to seven tissue types (heart, kidney, liver, lung, spleen, muscle, blood), cell suspensions, and ecto and endo parasites. Additionally, frozen tissue samples are available for about 130,000 individual mammals and date back to the late 1970&amp;#39;s. Serology data associated with hantavirus surveillance programs in the Americas are associated with 37,000 specimens. The MSB houses an extensive archive of field journals and catalogues that date to the 1900&amp;#39;s and are associated with specimens held in the collection. The collections are growing rapidly through the active research programs of curators, staff, and students, and through ongoing collaborations with other institutions and governmental agencies.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.msb.unm.edu/mammals</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The MSB mammal collections are world-wide in scope (72 countries and all 50 US states), with particularly strong holdings from Western North America (150,000 specimens), Beringia and high latitudes (26,000 from Alaska, Russia and Canada), Mongolia (4,200 specimens and parasites), and Latin America (10,200 specimens from Bolivia 7,000 from Chile; 5,000 from Panama).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The MSB mammal collections are taxonomically broad, representing 27 orders, 103 families, 513 genera, and approximately 1,400 species. The majority of specimens are from the Orders Rodentia (190,000), Chiroptera (25,000), Carnivora (15,000), Soricomorpha (10,000) and Artiodactyla (7,500).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Cook</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Mammals</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-1358</phone><electronicMailAddress>cookjose@unm.edu</electronicMailAddress><onlineUrl>http://www.msb.unm.edu/mammals/Cook/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>Cook J (2019). MSB Mammal Collection (Arctos). Version 35.25. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/oirgxw accessed via GBIF.org on 2019-04-05.</citation>
+              <livingTimePeriod>1890 to present</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
