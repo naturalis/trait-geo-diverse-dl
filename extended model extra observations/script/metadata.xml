@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.66dtma"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0009293-190320150433242</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.66dtma</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-04-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+TaxonKey: Aepyceros melampus (Lichtenstein, 1812) 
+HasCoordinate: TRUE
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from NYSM Mammals
+1 records from TTU Mammals Collection
+1 records from Mammifères (sauf Chiroptères) du Muséum d&apos;Histoire Naturelle de la ville de Bourges (BOUM)
+1 records from UTEP Mammals (Arctos)
+1 records from Mammalogy Collection - Royal Ontario Museum
+1 records from BoBO - Botanic Garden and Botanical Museum Berlin-Dahlem Observations
+1 records from Natusfera Citizen Science Observation Dataset
+1 records from Anymals+plants - Citizen Science Data
+1 records from Canadian Museum of Nature Mammal Collection
+1 records from Mammal collection, Natural History Museum, University of Oslo
+1 records from Museu de Ciències Naturals de Barcelona: MCNB-Cord
+1 records from SBMNH Vertebrate Zoology
+2 records from Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum
+2 records from AMNH Mammal Collections
+2 records from MSU Mammalogy, Ornithology and Vertebrate Paleontology Collections
+2 records from Lund Museum of Zoology (MZLU)
+3 records from RBINS DaRWIN
+3 records from NMNH Extant Specimen Records
+3 records from Animal observations
+3 records from UAZ Mammals
+3 records from MVZ Mammal Collection (Arctos)
+3 records from University of Michigan Museum of Zoology, Division of Mammals
+4 records from Macaulay Library Audio and Video Collection
+5 records from KUBI Mammalogy Collection
+7 records from Hatikka Observation Database
+8 records from LACM Vertebrate Collection
+9 records from Mammals housed at MHNG, Geneva
+13 records from CAS Mammalogy (MAM)
+14 records from MSB Mammal Collection (Arctos)
+14 records from DMNS Mammal Collection (Arctos)
+15 records from Museum of Comparative Zoology, Harvard University
+28 records from Kenya Virtual Museum Records
+44 records from Field Museum of Natural History (Zoology) Mammal Collection
+54 records from Levantamento de Mamíferos do Parque Nacional da Quiçama - INBAC/RWCP - 2017
+70 records from Paleobiology Database
+70 records from Paleobiology Database
+158 records from Ground Census Data for Lake Nakuru and Nairobi National Parks
+171 records from Kenya Wildlife Service, Laikipia Samburu Aerial Census, 2008
+187 records from Bibliographic records of Angola mammals
+299 records from Kenya Wildlife Service, Laikipia Samburu Aerial Census, 2012
+398 records from naturgucker
+832 records from Large herbivores in African savannahs, Lake Mburo National Park, Uganda
+1129 records from iNaturalist Research-grade Observations
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:08Z</dateStamp>
+      <citation identifier="10.15468/dl.66dtma">GBIF Occurrence Download 10.15468/dl.66dtma</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0009293-190320150433242.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0daed095-478a-4af6-abf5-18acb790fbb2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/uwudf9</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=mvz_mammal</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=mvz_mammal</alternateIdentifier>
+        <alternateIdentifier>0daed095-478a-4af6-abf5-18acb790fbb2</alternateIdentifier>
+        <alternateIdentifier>14802</alternateIdentifier>
+    <title>MVZ Mammal Collection (Arctos)</title>
+    <creator>
+    <individualName>
+<givenName>Chris</givenName>          <surName>Conroy</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Mammals</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643-7709</phone><electronicMailAddress>ondatra@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Chris</givenName>          <surName>Conroy</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Mammals</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643-7709</phone><electronicMailAddress>ondatra@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dusty</givenName>          <surName>McDonald</surName>
+    </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eileen</givenName>          <surName>Lacey</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Faculty Curator of Mammals</positionName>    <address>
+<deliveryPoint>3101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643-0284</phone><electronicMailAddress>ealacey@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>James</givenName>          <surName>Patton</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Faculty Curator of Mammals</positionName>    <address>
+<deliveryPoint>3101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643-7712</phone><electronicMailAddress>patton@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The MVZ mammal collection is the fourth largest in the United States and the second largest such collection associated with a U.S. academic institution. It contains over 228,000 skin, skull, skeleton and fluid-preserved specimens. Over 33,700 are also represented by frozen or fluid preserved tissues. The collection includes 364 type specimens, making it the fourth largest collection of such specimens in the US. Karyotype (chromosome) preparations are available for ca. 4,000 rodent specimens. These consist of slides of chromosome preparations and, in some cases, black and white photos and/or 35 mm negatives of chromosome spreads. The mammal collection also houses large series of lab-raised specimens from research by Francis B. Sumner, Richard D. Sage, and William Z. Lidicker.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://mvz.berkeley.edu/Mammal_Collection.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The MVZ mammal collection is global, with an emphasis on western North America and specifically the continental US, Alaska, western Canada, and northwestern Mexico. Also present are large and significant collections from Central America, South America, Southeast Asia, and Australasia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The MVZ mammal collection is taxonomically synoptic. It includes representatives of 25 of the 26 currently recognized orders of mammals, nearly 60% of mammalian families, and more than 50% of mammalian genera. Rodents and bats are especially well-represented, with large series of individuals for multiple taxa.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Chris</givenName>          <surName>Conroy</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology, UC Berkeley</organizationName><positionName>Staff Curator of Mammals</positionName>    <address>
+<deliveryPoint>3101 Valley Life Science Building</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720-3160</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(510) 643-7709</phone><electronicMailAddress>ondatra@berkeley.edu</electronicMailAddress><onlineUrl>http://mvz.berkeley.edu</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>Conroy C (2019). MVZ Mammal Collection (Arctos). Version 35.25. Museum of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/uwudf9 accessed via GBIF.org on 2019-04-05.</citation>
+              <livingTimePeriod>1858 to present</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

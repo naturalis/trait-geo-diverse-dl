@@ -1,0 +1,15 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+233712,1066965,1133304036,,FOSSIL_SPECIMEN,1964-11-15T00:00:00Z,29.69,-82.61,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238138,1071391,1133523677,,FOSSIL_SPECIMEN,2001-05-08T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238425,1071678,1133525827,,FOSSIL_SPECIMEN,2002-12-15T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238432,1071685,1133525834,,FOSSIL_SPECIMEN,2002-04-29T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238436,1071689,1133525838,,FOSSIL_SPECIMEN,2001-11-03T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238443,1071696,1133525845,,FOSSIL_SPECIMEN,2001-10-20T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238444,1071697,1133525846,,FOSSIL_SPECIMEN,2002-05-10T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238448,1071701,1133525850,,FOSSIL_SPECIMEN,2001-05-07T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238453,1071706,1133525856,,FOSSIL_SPECIMEN,2001-12-02T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238459,1071712,1133525863,,FOSSIL_SPECIMEN,2001-11-13T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238461,1071714,1133525871,,FOSSIL_SPECIMEN,2001-10-21T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238463,1071716,1133525874,,FOSSIL_SPECIMEN,2001-12-14T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+238466,1071719,1133525885,,FOSSIL_SPECIMEN,2001-11-11T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni
+239911,1073164,1133537867,,FOSSIL_SPECIMEN,2004-11-19T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pediomeryx hamiltoni,107330,8968108,Pediomeryx hamiltoni

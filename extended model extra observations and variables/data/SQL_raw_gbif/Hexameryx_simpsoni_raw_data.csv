@@ -1,0 +1,12 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+207863,1041116,1502353590,,FOSSIL_SPECIMEN,2017-04-11T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+233852,1067105,1133322202,,FOSSIL_SPECIMEN,1971-05-12T00:00:00Z,29.66,-82.37,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+233951,1067204,1133340757,,FOSSIL_SPECIMEN,1980-09-02T00:00:00Z,27.81,-81.85,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+234749,1068002,1133411048,,FOSSIL_SPECIMEN,1986-09-24T00:00:00Z,27.65,-81.86,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+234962,1068215,1133444941,,FOSSIL_SPECIMEN,1990-01-08T00:00:00Z,27.75,-81.96,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+234984,1068237,1133446879,,FOSSIL_SPECIMEN,1991-11-23T00:00:00Z,27.79,-82.1,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+239919,1073172,1133538469,,FOSSIL_SPECIMEN,2005-06-20T00:00:00Z,27.54,-82.03,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+239931,1073184,1133539460,,FOSSIL_SPECIMEN,2006-06-14T00:00:00Z,27.54,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+240028,1073281,1133548336,,FOSSIL_SPECIMEN,2006-10-06T00:00:00Z,27.54,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+240030,1073283,1133548629,,FOSSIL_SPECIMEN,2006-07-30T00:00:00Z,27.54,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni
+645318,1478571,1438639591,,FOSSIL_SPECIMEN,2017-02-05T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Hexameryx simpsoni,107222,4970623,Hexameryx simpsoni

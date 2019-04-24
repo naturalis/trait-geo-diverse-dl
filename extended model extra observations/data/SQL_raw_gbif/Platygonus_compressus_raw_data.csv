@@ -1,0 +1,11 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+115270,948523,1914189681,,FOSSIL_SPECIMEN,2016-08-26T00:00:00Z,29.45,-82.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+233719,1066972,1133305073,,FOSSIL_SPECIMEN,1957-06-06T00:00:00Z,29.36,-82.19,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+235061,1068314,1133452094,,FOSSIL_SPECIMEN,1993-01-17T00:00:00Z,29.64,-82.57,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+235062,1068315,1133452098,,FOSSIL_SPECIMEN,1992-06-27T00:00:00Z,29.64,-82.57,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+235065,1068318,1133452207,,FOSSIL_SPECIMEN,1993-02-07T00:00:00Z,29.64,-82.57,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+235066,1068319,1133452220,,FOSSIL_SPECIMEN,1993-02-07T00:00:00Z,29.64,-82.57,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+235388,1068641,1133471731,,FOSSIL_SPECIMEN,1986-07-14T00:00:00Z,25.61,-80.31,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+240298,1073551,1133559303,,FOSSIL_SPECIMEN,1990-09-19T00:00:00Z,29.28,-82.66,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+240561,1073814,1133567261,,FOSSIL_SPECIMEN,2007-05-27T00:00:00Z,27.83,-82.81,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus
+241870,1075123,1133587954,,FOSSIL_SPECIMEN,2012-10-27T00:00:00Z,27.83,-82.81,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus compressus,107338,4971501,Platygonus compressus

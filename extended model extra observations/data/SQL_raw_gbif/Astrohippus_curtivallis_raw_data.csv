@@ -1,0 +1,17 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+787741,1620994,1455755023,,FOSSIL_SPECIMEN,1991-10-09T00:00:00Z,30.46,-82.75,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+797379,1630632,1133372486,,FOSSIL_SPECIMEN,1983-05-18T00:00:00Z,27.83,-81.93,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798339,1631592,1133422673,,FOSSIL_SPECIMEN,1987-06-18T00:00:00Z,27.8,-81.92,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798346,1631599,1133422685,,FOSSIL_SPECIMEN,1987-06-18T00:00:00Z,27.8,-81.92,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798352,1631605,1133422692,,FOSSIL_SPECIMEN,1987-06-18T00:00:00Z,27.8,-81.92,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798353,1631606,1133422693,,FOSSIL_SPECIMEN,1987-06-18T00:00:00Z,27.8,-81.92,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798446,1631699,1133431079,,FOSSIL_SPECIMEN,1986-02-22T00:00:00Z,27.83,-81.93,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798448,1631701,1133431116,,FOSSIL_SPECIMEN,1986-02-22T00:00:00Z,27.8,-82.03,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798475,1631728,1133435159,,FOSSIL_SPECIMEN,1988-04-09T00:00:00Z,30.46,-82.75,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798476,1631729,1133435171,,FOSSIL_SPECIMEN,1988-04-09T00:00:00Z,30.46,-82.75,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798478,1631731,1133435173,,FOSSIL_SPECIMEN,1988-04-09T00:00:00Z,30.46,-82.75,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+798507,1631760,1133436978,,FOSSIL_SPECIMEN,1988-12-10T00:00:00Z,30.43,-82.77,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+813192,1646445,1133533832,,FOSSIL_SPECIMEN,2003-12-25T00:00:00Z,27.62,-82.2,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+813194,1646447,1133533846,,FOSSIL_SPECIMEN,2003-12-25T00:00:00Z,27.62,-82.2,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+813515,1646768,1133538531,,FOSSIL_SPECIMEN,2005-11-10T00:00:00Z,27.57,-81.91,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis
+813803,1647056,1133548685,,FOSSIL_SPECIMEN,2006-09-19T00:00:00Z,27.62,-82.2,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudhipparion curtivallum,107362,4969299,Astrohippus curtivallis

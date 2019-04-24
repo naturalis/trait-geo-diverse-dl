@@ -1,0 +1,12 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+237049,1070302,1133514317,,FOSSIL_SPECIMEN,1998-06-19T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+237050,1070303,1133514320,,FOSSIL_SPECIMEN,1998-06-19T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+237058,1070311,1133514336,,FOSSIL_SPECIMEN,1998-06-19T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+237089,1070342,1133514722,,FOSSIL_SPECIMEN,1998-06-19T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238051,1071304,1133523269,,FOSSIL_SPECIMEN,2001-06-18T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238053,1071306,1133523287,,FOSSIL_SPECIMEN,2001-06-18T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238076,1071329,1133523326,,FOSSIL_SPECIMEN,2001-06-20T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238089,1071342,1133523348,,FOSSIL_SPECIMEN,2001-06-20T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238308,1071561,1133524462,,FOSSIL_SPECIMEN,2001-06-15T00:00:00Z,42.79,-103.5,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238319,1071572,1133524492,,FOSSIL_SPECIMEN,2001-06-15T00:00:00Z,42.79,-103.5,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris
+238321,1071574,1133524502,,FOSSIL_SPECIMEN,2001-06-15T00:00:00Z,42.79,-103.5,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Pseudoprotoceras longinaris,107367,4970495,Pseudoprotoceras longinaris

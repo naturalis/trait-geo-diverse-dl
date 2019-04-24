@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7f6dd0f7-9ed4-49c0-bb71-b2a9c7fed9f1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ckcdpy</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=cuml_sound_film</alternateIdentifier>
+        <alternateIdentifier>7f6dd0f7-9ed4-49c0-bb71-b2a9c7fed9f1</alternateIdentifier>
+        <alternateIdentifier>15027</alternateIdentifier>
+    <title>Macaulay Library Audio and Video Collection</title>
+    <creator>
+    <individualName>
+<givenName>Edwin</givenName>          <surName>Scholes III, Ph.D.</surName>
+    </individualName>
+<organizationName>Macaulay Library</organizationName><positionName>Curator of Video</positionName>    <address>
+<deliveryPoint>Cornell Lab of Ornithology - 159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1115</phone><electronicMailAddress>edwin.scholes@cornell.edu</electronicMailAddress><onlineUrl>http://macaulaylibrary.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Edwin</givenName>          <surName>Scholes III, Ph.D.</surName>
+    </individualName>
+<organizationName>Macaulay Library</organizationName><positionName>Curator of Video</positionName>    <address>
+<deliveryPoint>Cornell Lab of Ornithology - 159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1115</phone><electronicMailAddress>edwin.scholes@cornell.edu</electronicMailAddress><onlineUrl>http://macaulaylibrary.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><phone>+01 785 813-1496</phone><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Brian</givenName>          <surName>Maltzan</surName>
+    </individualName>
+<organizationName>Macaulay Library at Cornell Lab of Ornithology</organizationName><positionName>Lead Software Engineer</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2129</phone><electronicMailAddress>brian.maltzan@gmail.com</electronicMailAddress><onlineUrl>http://macaulaylibrary.org/</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mike</givenName>          <surName>Webster, Ph.D.</surName>
+    </individualName>
+<organizationName>Macaulay Library at Cornell Lab of Ornithology</organizationName><positionName>Director and Robert G. Engel Associate Professor of Ornithology</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2493</phone><electronicMailAddress>msw244@cornell.edu</electronicMailAddress><onlineUrl>http://macaulaylibrary.org/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2015-11-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Macaulay Library is the world&amp;#39;s largest and oldest scientific archive of biodiversity audio and video recordings. Our mission is to collect and preserve recordings of each species&amp;#39; behavior and natural history, to facilitate the ability of others to collect and preserve such recordings, and to actively promote the use of these recordings for diverse purposes spanning scientific research, education, conservation, and the arts.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Macaulay Library regularly undertakes recording expeditions to increase the breadth and depth of vocalizations and behaviors in the archive. In recent years we have targeted regions with a high diversity of species that are not yet well covered. See our Big Year Expeditions website (http://www.birds.cornell.edu/bigyear) detailing our efforts in 2007 to record North American birds in Alaska, Florida, Nova Scotia, and Texas. Between 2008-2010, expeditions visited the Canadian Arctic, Guatemala, South Carolina, Texas, western Mexico, the Great Basin and the Louisiana Gulf coast.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The archive includes more than 175,000 audio recordings covering 75 percent of the world&apos;s bird species, with an ever increasing numbers of insect, fish, frog, and mammal recordings as well. The more recently established video archive includes over 50,000 clips, representing over 3,500 species.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                          <commonName>Animals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Greg</givenName>          <surName>Budney</surName>
+    </individualName>
+<organizationName>Macaulay Library</organizationName><positionName>Curator of Audio</positionName>    <address>
+<deliveryPoint>Cornell Lab of Ornithology - 159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2406</phone><electronicMailAddress>gfb3@cornell.edu</electronicMailAddress><onlineUrl>http://macaulaylibrary.org/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>Scholes III, Ph.D. E (2015). Macaulay Library Audio and Video Collection. Cornell Lab of Ornithology. Occurrence dataset https://doi.org/10.15468/ckcdpy accessed via GBIF.org on 2019-04-05.</citation>
+              <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=cuml_sound_film</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,20 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+240149,1073402,1133556649,,FOSSIL_SPECIMEN,2009-04-17T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240150,1073403,1133556714,,FOSSIL_SPECIMEN,2009-04-21T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240152,1073405,1133556727,,FOSSIL_SPECIMEN,2009-04-19T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240153,1073406,1133556733,,FOSSIL_SPECIMEN,2009-04-19T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240155,1073408,1133556750,,FOSSIL_SPECIMEN,2009-04-21T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240163,1073416,1133556848,,FOSSIL_SPECIMEN,2009-04-23T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240164,1073417,1133556879,,FOSSIL_SPECIMEN,2009-05-05T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240175,1073428,1133557026,,FOSSIL_SPECIMEN,2009-05-14T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240176,1073429,1133557117,,FOSSIL_SPECIMEN,2009-05-14T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240179,1073432,1133557184,,FOSSIL_SPECIMEN,2009-05-15T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240183,1073436,1133557251,,FOSSIL_SPECIMEN,2009-05-15T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+240250,1073503,1133558482,,FOSSIL_SPECIMEN,2012-04-06T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241138,1074391,1133576289,,FOSSIL_SPECIMEN,2011-06-05T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241146,1074399,1133576364,,FOSSIL_SPECIMEN,2011-06-03T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241157,1074410,1133576383,,FOSSIL_SPECIMEN,2011-06-16T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241158,1074411,1133576384,,FOSSIL_SPECIMEN,2011-03-25T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241171,1074424,1133576402,,FOSSIL_SPECIMEN,2011-06-16T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241672,1074925,1133584071,,FOSSIL_SPECIMEN,2012-03-16T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus
+241679,1074932,1133584114,,FOSSIL_SPECIMEN,2012-03-16T00:00:00Z,28.98,-82.32,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Platygonus bicalcaratus,107337,4971505,Platygonus bicalcaratus

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8c6aacda-2fd5-48a6-9b27-c673163ce2dd"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/kfxlfj</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=bourges_mammiferes_sauf_chiropteres</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.fr/ipt/resource?r=bourges_mammiferes_sauf_chiropteres</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.fr/ipt/resource.do?r=bourges_mammiferes_sauf_chiropteres</alternateIdentifier>
+        <alternateIdentifier>8c6aacda-2fd5-48a6-9b27-c673163ce2dd</alternateIdentifier>
+        <alternateIdentifier>http://lully.snv.jussieu.fr:8080/ipt/resource.do?id=bourges_mammiferes_sauf_chiropteres</alternateIdentifier>
+        <alternateIdentifier>13710</alternateIdentifier>
+    <title>Mammifères (sauf Chiroptères) du Muséum d&apos;Histoire Naturelle de la ville de Bourges (BOUM)</title>
+    <creator>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Collection Manager / Responsable des collections</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron - Allée Ménard</deliveryPoint><city>Bourges</city><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>ludovic.besson@ville-bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Collection Manager / Responsable des collections</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron - Allée Ménard</deliveryPoint><city>Bourges</city><postalCode>18000</postalCode>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>ludovic.besson@ville-bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2016-06-28
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Collection mamalogiques conservées à Bourges. Les sépcimens viennent de la collection Guy Babault, d&amp;#39;échanges avec le muséum national d&amp;#39;histoire naturelle de Paris ou d&amp;#39;acquisition récentes. Nombreux spécimens &amp;#34;Musées de France&amp;#34;. Les Chiroptères ne sont pas dans cette liste.
+Informations plus complètes sur demande auprès de BOUM</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Mammalia</keyword>
+              <keyword>Mammalogy</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.museum-bourges.net/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Faune mondiale</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1802
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Ludovic</givenName>          <surName>Besson</surName>
+    </individualName>
+<organizationName>BOUM</organizationName><positionName>Collection Manager / Responsable des collections</positionName>    <address>
+<deliveryPoint>Les Rives d&apos;Auron - Allée Ménard</deliveryPoint><city>Bourges</city><postalCode>18000</postalCode><country>FRANCE</country>    </address>
+<phone>02 48 65 37 34</phone><electronicMailAddress>ludovic.besson@ville-bourges.fr</electronicMailAddress><onlineUrl>http://www.museum-bourges.net/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:04Z</dateStamp>
+      <citation>Besson L (2016). Mammifères (sauf Chiroptères) du Muséum d&apos;Histoire Naturelle de la ville de Bourges (BOUM). Version 11.4. Muséum d&apos;Histoire Naturelle de Bourges. Occurrence dataset https://doi.org/10.15468/kfxlfj accessed via GBIF.org on 2019-04-05.</citation>
+              <bibliography>
+      <citation>Bernard D. (1978) - Un loup enragé en Berry : la bête de Tendu-Mosnay (1878). 1e et 2e édition, Imp. Badel (1978, 1979), Châteauroux. 2e édition, La Simarre, Joué-lès-Tours, 1991</citation>
+      <citation>Didier R. et Boudarel A. (1921). L’art de la taxidermie au XXe siècle. Edition P. Lechevalier, Paris. Trois spécimens utilisés pour illustrer des montages de taxidermie sont au muséum</citation>
+      <citation>Hassanin A., Ropiquet A., Cornette R., Tranier M., Pfeffer P., Candegabe P. &amp; Lemaire M. (2005) - Has the Kouprey (Bos sauveli Urbain, 1937) been domesticated in Cambodia ? C. R. Biologie 329 : 124-135.</citation>
+      <citation>Léger F. &amp; Ruette S. (2005). Le chien viverrin en France. Faune sauvage, 269 : 4-13. un spécimen au muséum</citation>
+      <citation>Péquignot A., Candegabe P. &amp; Lemaire M. (2005) - L’histoire retrouvée de l’éléphant Hans. La lettre de l’OCIM, 97 : 13-23</citation>
+              </bibliography>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Collection Guy Babault</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

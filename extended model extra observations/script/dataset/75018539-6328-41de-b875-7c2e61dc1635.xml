@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="75018539-6328-41de-b875-7c2e61dc1635"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/amfnkq</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=sbmnh_verts</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=sbmnh_verts</alternateIdentifier>
+        <alternateIdentifier>75018539-6328-41de-b875-7c2e61dc1635</alternateIdentifier>
+        <alternateIdentifier>14690</alternateIdentifier>
+    <title>SBMNH Vertebrate Zoology</title>
+    <creator>
+    <individualName>
+<givenName>Krista</givenName>          <surName>Fahy</surName>
+    </individualName>
+<organizationName>Santa Barbara Museum of Natural History</organizationName><positionName>Associate Curator</positionName>    <address>
+<deliveryPoint>2559 Puesta del Sol</deliveryPoint><city>Santa Barbara</city><administrativeArea>CA</administrativeArea><postalCode>93105</postalCode>    </address>
+<phone>+01 805-682-4711 (155)</phone><electronicMailAddress>kfahy@sbnature2.org</electronicMailAddress><onlineUrl>http://www.sbnature.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Krista</givenName>          <surName>Fahy</surName>
+    </individualName>
+<organizationName>Santa Barbara Museum of Natural History</organizationName><positionName>Associate Curator</positionName>    <address>
+<deliveryPoint>2559 Puesta del Sol</deliveryPoint><city>Santa Barbara</city><administrativeArea>CA</administrativeArea><postalCode>93105</postalCode>    </address>
+<phone>+01 805-682-4711 (155)</phone><electronicMailAddress>kfahy@sbnature2.org</electronicMailAddress><onlineUrl>http://www.sbnature.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paul</givenName>          <surName>Collins</surName>
+    </individualName>
+<organizationName>Santa Barbara Museum of Natural History</organizationName><positionName>Curator</positionName><electronicMailAddress>pcollins@sbnature2.org</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Michelle</givenName>          <surName>Berman</surName>
+    </individualName>
+<organizationName>Santa Barbara Museum of Natural History</organizationName><positionName>Associate Curator</positionName><electronicMailAddress>mberman@sbnature2.org</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Santa Barbara Museum of Natural History was founded as the Museum of Comparative Oology in 1916 boasting one of the most significant collections of bird eggs and associated nests in the world; the Museum still stewards that significant collection and provides access to researchers around the globe. In addition, the vertebrate zoology department houses regional and comparative foreign specimens of all vertebrate classes including: eggs, nests, skins, osteological preparations, pickled preparations, tissue collections and associated field notes and catalogues.  The historic collections contain material from as early as 1849 and have continued to grow in size and scope to now house over 40,000 specimens of fish, amphibians, reptiles, birds and eggs, and mammals.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.sbcollections.org/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>A worldwide collection with greatest concentration in North and South America, Europe, North Africa, Pacific Ocean and scattered countries within the Middle East and Southern Asia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1840-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-01-22
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Krista</givenName>          <surName>Fahy</surName>
+    </individualName>
+<organizationName>Santa Barbara Museum of Natural History</organizationName><positionName>Associate Curator</positionName>    <address>
+<deliveryPoint>2559 Puesta del Sol</deliveryPoint><city>Santa Barbara</city><administrativeArea>CA</administrativeArea><postalCode>93105</postalCode>    </address>
+<phone>+01 805-682-4711 (155)</phone><electronicMailAddress>kfahy@sbnature2.org</electronicMailAddress><onlineUrl>http://www.sbnature.org/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:05Z</dateStamp>
+      <citation>Fahy K (2016). SBMNH Vertebrate Zoology. Version 5.1. Santa Barbara Museum of Natural History. Occurrence dataset https://doi.org/10.15468/amfnkq accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="999d8fed-d06d-48d8-87ee-cc36e6c8456c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jolylt</alternateIdentifier>
+        <alternateIdentifier>999d8fed-d06d-48d8-87ee-cc36e6c8456c</alternateIdentifier>
+        <alternateIdentifier>http://aduipt.uct.ac.za:8080/ipt-2.3.2/resource?r=kenya_virtual_museum_records</alternateIdentifier>
+    <title>Kenya Virtual Museum Records</title>
+    <creator>
+    <individualName>
+<givenName>Rene</givenName>          <surName>Navarro</surName>
+    </individualName>
+<organizationName>FitzPatrick Institute of African Ornithology</organizationName><positionName>Information Systems Specialist</positionName>    <address>
+<deliveryPoint>Rondebosch</deliveryPoint><city>Cape Town</city><administrativeArea>Western Cape</administrativeArea><postalCode>7701</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27216504751</phone><electronicMailAddress>rene.navarro@uct.ac.za</electronicMailAddress><onlineUrl>http://www.fitzpatrick.uct.ac.za/fitz/staff/support/navarro</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-2203-0481</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rene</givenName>          <surName>Navarro</surName>
+    </individualName>
+<organizationName>FitzPatrick Institute of African Ornithology</organizationName><positionName>Information Systems Specialist</positionName>    <address>
+<deliveryPoint>Rondebosch</deliveryPoint><city>Cape Town</city><administrativeArea>Western Cape</administrativeArea><postalCode>7701</postalCode><country>SOUTH_AFRICA</country>    </address>
+<phone>+27-21-650-4751</phone><electronicMailAddress>rene.navarro@uct.ac.za</electronicMailAddress><onlineUrl>http://www.fitzpatrick.uct.ac.za/fitz/staff/support/navarro</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-2203-0481</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Colin</givenName>          <surName>Jackson</surName>
+    </individualName>
+<organizationName>A Rocha Kenya</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Plot 28, Beach Road</deliveryPoint><city>Watamu</city><country>KENYA</country>    </address>
+<electronicMailAddress>colin.jackson@arocha.org</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Michael</givenName>          <surName>Brooks</surName>
+    </individualName>
+<electronicMailAddress>michael.brooks@uct.ac.za</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>&lt;p&gt;This data-set contains Virtual Museum records for Kenya, it is part of the project &amp;#34;Prioritizing conservation management in an East African forest landscape&amp;#34; (Project ID BID-AF2017-0274-NAC).&lt;/p&gt;
+&lt;p&gt;The Virtual Museum (VM) is a database system and corresponding web front-end, it is a research tool with the following main objectives: (1) to provide a platform for citizen scientists to contribute to science-driven biodiversity projects; submitted records are identified and vetted online by a panel of experts; (2) to serve as a repository for the long term curation of distributional data sets; (3) to provide open access to distributional data in the form of maps and lists. The VM has been used as the platform for the Conservation Assessment of reptiles, butterflies, mammals and birds.  Currently the VM hosts 17 biodiversity projects: BirdPix (bird pictures archive), BOP (odd plumages of birds), DungBeetleMAP (atlas of dung beetles, Coleoptera: Scarabaeidae), EchinoMAP (atlas of African Echinoderma , sea stars, sea urchins and brittle stars), FishMAP (atlas of freshwater fish in southern and eastern Africa), FrogMAP (atlas of African frogs), LacewingMAP (atlas of African Neuroptera and Megaloptera), MushroomMAP (atlas of South African Mushrooms), OdonataMAP (atlas of African Odonata), OrchidMAP (atlas of African Orchids), PHOWN (photos of weaver nests), LepiMAP (atlas of African Lepidoptera), ReptileMAP (atlas of African Reptiles), ScorpionMAP (atlas of African Scorpions), SpiderMAP (atlas of African Spiders), MammalMAP (atlas of African Mammals), TreeMAP (atlas of South African trees).&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>genus</keyword>
+              <keyword>species</keyword>
+              <keyword>citizen science</keyword>
+              <keyword>Orchids; Lepidoptera; Reptiles; Scorpions; Spidera; Mammals; Trees.</keyword>
+              <keyword>volunteer; Birds; Dung Beetles (Coleoptera: Scarabaeidae); Echinoderma (sea stars</keyword>
+              <keyword>spatial</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>sea urchins and brittle stars); Freshwater fish; Frogs; Lacewings (Neuroptera and Megaloptera); Mushrooms; Odonata</keyword>
+              <keyword>temporal</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://vmus.adu.org.za</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>This resource covers Virtual Museum records throughout Kenya.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>33.51</westBoundingCoordinate>
+                      <eastBoundingCoordinate>42.61</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.95</northBoundingCoordinate>
+                      <southBoundingCoordinate>-5.39</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Most occurrence correspond to photographic records identified to species level by an appointed panel of taxonomic experts in each major taxa covered by the data set.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scarabaeidae</taxonRankValue>
+                          <commonName>Dung Beetles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Echinodermata</taxonRankValue>
+                          <commonName>sea stars, sea urchins and brittle stars</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Osteichthyes</taxonRankValue>
+                          <commonName>fishes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Frogs</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>reptiles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mammals</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Neuroptera</taxonRankValue>
+                          <commonName>Lacewings, Ant lions</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Megaloptera</taxonRankValue>
+                          <commonName>Alderflies, Dobsonflies</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lepidoptera</taxonRankValue>
+                          <commonName>Butterflies, Moths</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Scorpiones</taxonRankValue>
+                          <commonName>Scorpions</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Araneae</taxonRankValue>
+                          <commonName>Spiders</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Njoroge</surName>
+    </individualName>
+<organizationName>Nairobi Museum</organizationName><positionName>Management team</positionName>    <address>
+<deliveryPoint>Nairobi</deliveryPoint><city>Nairobi</city><country>KENYA</country>    </address>
+<phone>+254724521770</phone><electronicMailAddress>pnjoroge@museums.or.ke</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The Virtual Museum consists of photographic records submitted by citizen scientists, the data includes locality description and precise point-location data.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Virtual Museum data consist mostly of photographic records submitted by citizen scientists across Africa.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The Virtual Museum consists of photographic records submitted by citizen scientists, the data includes locality description and precise point-location data. However, the coordinates of the data presented here are given as the center-point of a 15x15 minute grid.
+
+The VM system can also include other type of data: sighting data, museum (specimen) records, camera-trap records, and literature records.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Identification of photographic records is done by an appointed panel of taxonomic experts in the respective taxa that the various projects hosted by the Virtual Museum system.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:06Z</dateStamp>
+      <citation>Navarro R, Jackson C (2019). Kenya Virtual Museum Records. Version 1.3. Animal Demography Unit, Department of Zoology, University of Cape Town. Occurrence dataset https://doi.org/10.15468/jolylt accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="609217ee-054d-441d-a850-356cbc2fb385"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/knvqao</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=o_mammals</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=o_mammals</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=o_mammals</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource?r=o_mammals</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=o_mammals</alternateIdentifier>
+        <alternateIdentifier>609217ee-054d-441d-a850-356cbc2fb385</alternateIdentifier>
+        <alternateIdentifier>8067</alternateIdentifier>
+    <title>Mammal collection, Natural History Museum, University of Oslo</title>
+    <creator>
+<organizationName>UiO Natural History Museum, University of Oslo</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>+4722851630</phone><electronicMailAddress>postmottak@nhm.uio.no</electronicMailAddress><onlineUrl>https://www.nhm.uio.no</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>GBIF Norway</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><administrativeArea>Norway</administrativeArea><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>+4722851620</phone><electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>GBIF Norway</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><administrativeArea>Norway</administrativeArea><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>22851620</phone><electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Mammals at Natural History Museum, University of Oslo</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>World</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Øystein</givenName>          <surName>Wiig</surName>
+    </individualName>
+<organizationName>UiO Natural History Museum, University of Oslo</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<phone>+4722851630</phone><electronicMailAddress>oystein.wiig@nhm.uio.no</electronicMailAddress><onlineUrl>https://www.nhm.uio.no</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:05Z</dateStamp>
+      <citation>Natural History Museum, University of Oslo (2019). Mammal collection, Natural History Museum, University of Oslo. Version 31.155. Occurrence dataset https://doi.org/10.15468/knvqao accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

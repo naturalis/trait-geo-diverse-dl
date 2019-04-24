@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="427a6290-0c65-11dd-84d2-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/mw39rb</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.se/ipt/resource?r=mzlu</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.se/ipt/resource.do?r=mzlu</alternateIdentifier>
+        <alternateIdentifier>427a6290-0c65-11dd-84d2-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>1533</alternateIdentifier>
+    <title>Lund Museum of Zoology (MZLU)</title>
+    <creator>
+    <individualName>
+<givenName>Anders</givenName>          <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Node manager</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jonas</givenName>          <surName>Ekström</surName>
+    </individualName>
+<organizationName>Biological museum, Lund University</organizationName><positionName>Curator</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>jonas.ekstrom@biol.lu.se</electronicMailAddress><onlineUrl>http://www.biomus.lu.se</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Anders</givenName>          <surName>Telenius</surName>
+    </individualName>
+<organizationName>Swedish Museum of Natural History</organizationName><positionName>Node manager</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>anders.telenius@nrm.se</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This database contains information on birds, mammals, reptiles, amphibians and invertebrates, except insects, from the Zoological Collections in the Museum of Biology of Lund, Sweden.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.biomus.lu.se/en/zoological-collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens from all over the world.. 68% of the material from the Nordic countries (Denmark,Sweden,Norway,Finland and Iceland).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Jonas</givenName>          <surName>Ekström</surName>
+    </individualName>
+<organizationName>Biological museum, Lund University</organizationName><positionName>Curator</positionName>    <address>
+<country>SWEDEN</country>    </address>
+<electronicMailAddress>jonas.ekstrom@biol.lu.se</electronicMailAddress><onlineUrl>http://www.biomus.lu.se</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:41:05Z</dateStamp>
+      <citation>Telenius A, Ekström J (2019). Lund Museum of Zoology (MZLU). GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/mw39rb accessed via GBIF.org on 2019-04-05.</citation>
+              <formationPeriod>1735-current</formationPeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

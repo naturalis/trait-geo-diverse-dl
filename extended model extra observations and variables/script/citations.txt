@@ -1,0 +1,44 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Stevens E, Gerhard D (2016). NYSM Mammals. Version 16.1. New York State Museum (NYSM). Occurrence dataset https://doi.org/10.15468/awwifu accessed via GBIF.org on 2019-04-05.
+Garner H (2016). TTU Mammals Collection. Version 9.1. Museum of Texas Tech University (TTU). Occurrence dataset https://doi.org/10.15468/yocqyp accessed via GBIF.org on 2019-04-05.
+Besson L (2016). Mammifères (sauf Chiroptères) du Muséum d'Histoire Naturelle de la ville de Bourges (BOUM). Version 11.4. Muséum d'Histoire Naturelle de Bourges. Occurrence dataset https://doi.org/10.15468/kfxlfj accessed via GBIF.org on 2019-04-05.
+Zhuang V, Mayfield-Meyer T (2019). UTEP Mammals (Arctos). Version 10.25. University of Texas at El Paso Biodiversity Collections. Occurrence dataset https://doi.org/10.15468/cvlpkg accessed via GBIF.org on 2019-04-05.
+Millen B, Lim B (2018). Mammalogy Collection - Royal Ontario Museum. Version 11.5. Royal Ontario Museum. Occurrence dataset https://doi.org/10.15468/2rlrvh accessed via GBIF.org on 2019-04-05.
+Botanic Garden and Botanical Museum Berlin-Dahlem (2019). BoBO - Botanic Garden and Botanical Museum Berlin-Dahlem Observations. Occurrence dataset https://doi.org/10.15468/9ll2gz accessed via GBIF.org on 2019-04-05.
+Castilla F, Cezón K (2018). Natusfera Citizen Science Observation Dataset. Version 1.19. GBIF-Spain. Occurrence dataset https://doi.org/10.15470/lex4ip accessed via GBIF.org on 2019-04-05.
+Museum für Naturkunde Berlin. Anymals+plants - Citizen Science Data. Occurrence dataset https://doi.org/10.15468/ee6ps6 accessed via GBIF.org on 2019-04-05.
+Khidas K, Shorthouse D (2019). Canadian Museum of Nature Mammal Collection. Version 1.14. Canadian Museum of Nature. Occurrence dataset https://doi.org/10.15468/okgapc accessed via GBIF.org on 2019-04-05.
+Natural History Museum, University of Oslo (2019). Mammal collection, Natural History Museum, University of Oslo. Version 31.155. Occurrence dataset https://doi.org/10.15468/knvqao accessed via GBIF.org on 2019-04-05.
+Quesada Lara J, Agulló Villaronga J (2018). Museu de Ciències Naturals de Barcelona: MCNB-Cord. Museu de Ciències Naturals de Barcelona. Occurrence dataset https://doi.org/10.15468/yta7zj accessed via GBIF.org on 2019-04-05.
+Fahy K (2016). SBMNH Vertebrate Zoology. Version 5.1. Santa Barbara Museum of Natural History. Occurrence dataset https://doi.org/10.15468/amfnkq accessed via GBIF.org on 2019-04-05.
+Gall L (2019). Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum. Yale University Peabody Museum. Occurrence dataset https://doi.org/10.15468/4mm6uc accessed via GBIF.org on 2019-04-05.
+Trombone T (2016). AMNH Mammal Collections. American Museum of Natural History. Occurrence dataset https://doi.org/10.15468/wu3poe accessed via GBIF.org on 2019-04-05.
+Abraczinskas L (2016). MSU Mammalogy, Ornithology and Vertebrate Paleontology Collections. Version 8.1. Michigan State University Museum. Occurrence dataset https://doi.org/10.15468/xypr72 accessed via GBIF.org on 2019-04-05.
+Telenius A, Ekström J (2019). Lund Museum of Zoology (MZLU). GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/mw39rb accessed via GBIF.org on 2019-04-05.
+Royal Belgian Institute of Natural Sciences (2017). RBINS DaRWIN. Occurrence dataset https://doi.org/10.15468/qxy4mc accessed via GBIF.org on 2019-04-05.
+Orrell T, Hollowell T (2018). NMNH Extant Specimen Records. Version 1.19. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2019-04-05.
+Department of Forest Sciences. Animal observations. Occurrence dataset https://doi.org/10.15468/5svoyn accessed via GBIF.org on 2019-04-05.
+Bucci M (2016). UAZ Mammals. Version 5.1. University of Arizona Museum of Natural History. Occurrence dataset https://doi.org/10.15468/2swesj accessed via GBIF.org on 2019-04-05.
+Conroy C (2019). MVZ Mammal Collection (Arctos). Version 35.25. Museum of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/uwudf9 accessed via GBIF.org on 2019-04-05.
+University of Michigan Museum of Zoology (2019). University of Michigan Museum of Zoology, Division of Mammals. Version 8.5. Occurrence dataset https://doi.org/10.15468/dx3rcj accessed via GBIF.org on 2019-04-05.
+Scholes III, Ph.D. E (2015). Macaulay Library Audio and Video Collection. Cornell Lab of Ornithology. Occurrence dataset https://doi.org/10.15468/ckcdpy accessed via GBIF.org on 2019-04-05.
+Slade N (2019). KUBI Mammalogy Collection. Version 26.20. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/a3woj7 accessed via GBIF.org on 2019-04-05.
+Lahti T (2017). Hatikka Observation Database. Version 1.1. Finnish Biodiversity Information Facility. Occurrence dataset https://doi.org/10.15468/te1t6l accessed via GBIF.org on 2019-04-05.
+Feeney R (2018). LACM Vertebrate Collection. Version 18.3. Natural History Museum of Los Angeles County. Occurrence dataset https://doi.org/10.15468/77rmwd accessed via GBIF.org on 2019-04-05.
+Muséum d'histoire naturelle de la Ville de Genève - MHNG. Mammals housed at MHNG, Geneva. Occurrence dataset https://doi.org/10.15468/lwu4fj accessed via GBIF.org on 2019-04-05.
+Flannery M, Fong J (2019). CAS Mammalogy (MAM). Version 133.164. California Academy of Sciences. Occurrence dataset https://doi.org/10.15468/dhbozg accessed via GBIF.org on 2019-04-05.
+Cook J (2019). MSB Mammal Collection (Arctos). Version 35.25. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/oirgxw accessed via GBIF.org on 2019-04-05.
+Demboski J (2019). DMNS Mammal Collection (Arctos). Version 34.24. Denver Museum of Nature & Science. Occurrence dataset https://doi.org/10.15468/bqvk9g accessed via GBIF.org on 2019-04-05.
+Harvard University M, Morris P J (2019). Museum of Comparative Zoology, Harvard University. Version 162.147. Museum of Comparative Zoology, Harvard University. Occurrence dataset https://doi.org/10.15468/p5rupv accessed via GBIF.org on 2019-04-05.
+Navarro R, Jackson C (2019). Kenya Virtual Museum Records. Version 1.3. Animal Demography Unit, Department of Zoology, University of Cape Town. Occurrence dataset https://doi.org/10.15468/jolylt accessed via GBIF.org on 2019-04-05.
+Grant S, Ferguson A (2019). Field Museum of Natural History (Zoology) Mammal Collection. Version 9.6. Field Museum. Occurrence dataset https://doi.org/10.15468/n4zgxw accessed via GBIF.org on 2019-04-05.
+De Sa S D A, Elizalde D, André G, Elizalde S, Groom R (2018). Levantamento de Mamíferos do Parque Nacional da Quiçama - INBAC/RWCP - 2017. INBAC. Occurrence dataset https://doi.org/10.15468/wzqqyj accessed via GBIF.org on 2019-04-05.
+Marine Science Institute, UCSB. Paleobiology Database. Occurrence dataset https://doi.org/10.15468/2durgn accessed via GBIF.org on 2019-04-05.
+McClennen M, Jenkins J, Uhen M (2017). Paleobiology Database. Paleobiology Database. Occurrence dataset https://doi.org/10.15468/jfqhiu accessed via GBIF.org on 2019-04-05.
+Mukeka J, Hongo P (2019). Ground Census Data for Lake Nakuru and Nairobi National Parks. Version 1.9. Kenya Wildlife Service. Occurrence dataset https://doi.org/10.15468/yrfqv7 accessed via GBIF.org on 2019-04-05.
+Mukeka J, Hongo P (2018). Kenya Wildlife Service, Laikipia Samburu Aerial Census, 2008. Kenya Wildlife Service. Occurrence dataset https://doi.org/10.15468/jgorro accessed via GBIF.org on 2019-04-05.
+Rodrigues P, Figueira R, Beja P (2018). Bibliographic records of Angola mammals. Version 2.2. Instituto de Investigação Científica Tropical. Occurrence dataset https://doi.org/10.15468/0v4b7o accessed via GBIF.org on 2019-04-05.
+Mukeka J, Hongo P (2018). Kenya Wildlife Service, Laikipia Samburu Aerial Census, 2012. Kenya Wildlife Service. Occurrence dataset https://doi.org/10.15468/n441df accessed via GBIF.org on 2019-04-05.
+naturgucker.de. naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2019-04-05.
+Moe S R, Okullo P, Steinert M (2019). Large herbivores in African savannahs, Lake Mburo National Park, Uganda. Version 1.6. Norwegian University of Life Sciences (NMBU), Faculty of Environmental Sciences and Natural Resource Management. Sampling event dataset https://doi.org/10.15468/hzo6ka accessed via GBIF.org on 2019-04-05.
+iNaturalist.org (2019). iNaturalist Research-grade Observations. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2019-04-05.

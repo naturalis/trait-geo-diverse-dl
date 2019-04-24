@@ -1,0 +1,24 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+233747,1067000,1133307547,,FOSSIL_SPECIMEN,1964-01-16T00:00:00Z,29.69,-82.61,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+235668,1068921,1133477499,,FOSSIL_SPECIMEN,1980-04-26T00:00:00Z,27.7,-82.0,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+235669,1068922,1133477501,,FOSSIL_SPECIMEN,1980-04-26T00:00:00Z,27.83,-81.93,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+235670,1068923,1133477503,,FOSSIL_SPECIMEN,1980-04-26T00:00:00Z,27.7,-82.0,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+237099,1070352,1133515053,,FOSSIL_SPECIMEN,2001-12-12T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+237101,1070354,1133515072,,FOSSIL_SPECIMEN,2002-04-28T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238428,1071681,1133525830,,FOSSIL_SPECIMEN,2002-04-23T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238433,1071686,1133525835,,FOSSIL_SPECIMEN,2002-12-12T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238441,1071694,1133525843,,FOSSIL_SPECIMEN,2001-12-02T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238445,1071698,1133525847,,FOSSIL_SPECIMEN,2001-05-16T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238446,1071699,1133525848,,FOSSIL_SPECIMEN,2001-12-16T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238449,1071702,1133525851,,FOSSIL_SPECIMEN,2001-12-02T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238451,1071704,1133525853,,FOSSIL_SPECIMEN,2001-05-17T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238452,1071705,1133525855,,FOSSIL_SPECIMEN,2001-11-17T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238454,1071707,1133525857,,FOSSIL_SPECIMEN,2001-05-18T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238455,1071708,1133525858,,FOSSIL_SPECIMEN,2002-10-23T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238456,1071709,1133525859,,FOSSIL_SPECIMEN,2002-03-25T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238464,1071717,1133525877,,FOSSIL_SPECIMEN,2002-03-25T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+238981,1072234,1133529248,,FOSSIL_SPECIMEN,2003-12-06T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+239898,1073151,1133537754,,FOSSIL_SPECIMEN,2004-12-15T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+239899,1073152,1133537758,,FOSSIL_SPECIMEN,2003-11-21T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+239927,1073180,1133539249,,FOSSIL_SPECIMEN,2002-05-20T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus
+239928,1073181,1133539262,,FOSSIL_SPECIMEN,2004-12-01T00:00:00Z,29.7,-82.62,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Floridameryx floridanus,107196,8693423,Floridameryx floridanus

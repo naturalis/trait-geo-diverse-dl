@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b929f23d-290f-4e85-8f17-764c55b3b284"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/s6ctus</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=bpbm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=bpbm</alternateIdentifier>
+        <alternateIdentifier>b929f23d-290f-4e85-8f17-764c55b3b284</alternateIdentifier>
+        <alternateIdentifier>54</alternateIdentifier>
+    <title>Bernice P. Bishop Museum</title>
+    <creator>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Pyle</surName>
+    </individualName>
+<organizationName>Bernice P. Bishop Museum</organizationName><positionName>Database Coordinator</positionName>    <address>
+<deliveryPoint>1525 Bernice Street</deliveryPoint><city>Honolulu</city><administrativeArea>Hawaii</administrativeArea><postalCode>96817</postalCode><country>UNITED_STATES</country>    </address>
+<phone>808-848-4115</phone><electronicMailAddress>deepreef@bishopmuseum.org</electronicMailAddress><onlineUrl>http://hbs.bishopmuseum.org/staff/pylerichard.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Pyle</surName>
+    </individualName>
+<organizationName>Bernice P. Bishop Museum</organizationName><positionName>Database Coordinator</positionName>    <address>
+<deliveryPoint>1525 Bernice Street</deliveryPoint><city>Honolulu</city><administrativeArea>Hawaii</administrativeArea><postalCode>96817</postalCode><country>UNITED_STATES</country>    </address>
+<phone>808-848-4115</phone><electronicMailAddress>deepreef@bishopmuseum.org</electronicMailAddress><onlineUrl>http://hbs.bishopmuseum.org/staff/pylerichard.html</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName>    <address>
+<deliveryPoint>3101 VLSB</deliveryPoint><city>Berkeley</city><administrativeArea>CA</administrativeArea><postalCode>94720</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Whitton</surName>
+    </individualName>
+<organizationName>Technical Innovations, Inc.</organizationName><positionName>Consultant</positionName>    <address>
+<city>Kaaawa</city><administrativeArea>Hawaii</administrativeArea><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>whittonr@gmail.com</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Arnold</givenName>          <surName>Suzumoto</surName>
+    </individualName>
+<organizationName>Bishop Museum</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>1525 Bernice Street</deliveryPoint><city>Honolulu</city><administrativeArea>Hawaii</administrativeArea><postalCode>96817</postalCode><country>UNITED_STATES</country>    </address>
+<phone>808-848-4130</phone><electronicMailAddress>glassman@bishopmuseum.org</electronicMailAddress><onlineUrl>http://hbs.bishopmuseum.org/staff/suzumoto.html</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Holly</givenName>          <surName>Bolick</surName>
+    </individualName>
+<organizationName>Bernice P. Bishop Museum</organizationName><positionName>Database Coordinator</positionName>    <address>
+<deliveryPoint>1525 Bernice Street</deliveryPoint><city>Honolulu</city><administrativeArea>Hawaii</administrativeArea><postalCode>96817</postalCode><country>UNITED_STATES</country>    </address>
+<phone>808-848-4115</phone><electronicMailAddress>holly@bishopmuseum.org</electronicMailAddress><onlineUrl>http://hbs.bishopmuseum.org/staff/pylerichard.html</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Bernice Pauahi Bishop Museum, designated the Hawaiʻi State Museum of Natural and Cultural History, is a museum of history and science located in the Kalihi district of Honolulu on the Hawaiian island of O&amp;#39;ahu. Founded in 1889, it is the largest museum in Hawai&amp;#39;i and is home to one of the world&amp;#39;s largest collections of natural history material from the Pacific region, with approximately 21 million specimens. The main collections include Entomology,  Malacology, Botany, Ichthyology, Vertebrate Zoology (Birds, Mammals, Amphibians and Reptiles) and Marine Invertebrates. Bishop Museum is in the process of dramatically improving its digital resources, and is actively involved in the development of biodiversity information standards and associated services (particularly the Global Names Architecture).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Primarily focused on the tropical Indo-Pacific region, with an emphasis on Oceania.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Recent and fossil plants, algae, fungi and animals.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plants, Algae</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                          <commonName>Fungi</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                          <commonName>Animals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Pyle</surName>
+    </individualName>
+<organizationName>Bernice P. Bishop Museum</organizationName><positionName>Database Coordinator</positionName>    <address>
+<deliveryPoint>1525 Bernice Street</deliveryPoint><city>Honolulu</city><administrativeArea>Hawaii</administrativeArea><postalCode>96817</postalCode><country>UNITED_STATES</country>    </address>
+<phone>808-848-4115</phone><electronicMailAddress>deepreef@bishopmuseum.org</electronicMailAddress><onlineUrl>http://hbs.bishopmuseum.org/staff/pylerichard.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:33:54Z</dateStamp>
+      <citation>Pyle R (2016). Bernice P. Bishop Museum. Version 8.1. Bernice Pauahi Bishop Museum. Occurrence dataset https://doi.org/10.15468/s6ctus accessed via GBIF.org on 2019-04-05.</citation>
+              <resourceLogoUrl>http://bishopmuseum.org/images/bmlogo.gif</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

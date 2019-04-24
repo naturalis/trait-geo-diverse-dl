@@ -1,0 +1,22 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+233999,1067252,1133362820,,FOSSIL_SPECIMEN,1982-09-16T00:00:00Z,42.82,-103.59,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+234001,1067254,1133362833,,FOSSIL_SPECIMEN,1982-09-16T00:00:00Z,42.82,-103.59,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+236721,1069974,1133505231,,FOSSIL_SPECIMEN,1997-07-28T00:00:00Z,42.78,-103.58,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237122,1070375,1133515595,,FOSSIL_SPECIMEN,1998-08-14T00:00:00Z,42.84,-103.6,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237127,1070380,1133515608,,FOSSIL_SPECIMEN,1998-06-20T00:00:00Z,42.87,-103.6,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237138,1070391,1133515657,,FOSSIL_SPECIMEN,1998-06-19T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237167,1070420,1133516955,,FOSSIL_SPECIMEN,1998-08-14T00:00:00Z,42.86,-103.63,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237826,1071079,1133521531,,FOSSIL_SPECIMEN,1999-06-22T00:00:00Z,42.8,-103.52,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237876,1071129,1133521788,,FOSSIL_SPECIMEN,2000-05-20T00:00:00Z,42.8,-103.58,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237881,1071134,1133521795,,FOSSIL_SPECIMEN,2000-06-23T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237886,1071139,1133521804,,FOSSIL_SPECIMEN,1999-06-26T00:00:00Z,42.8,-103.52,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237898,1071151,1133521828,,FOSSIL_SPECIMEN,1999-07-06T00:00:00Z,42.78,-103.58,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237909,1071162,1133521926,,FOSSIL_SPECIMEN,2000-06-23T00:00:00Z,42.81,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+237910,1071163,1133521930,,FOSSIL_SPECIMEN,2000-06-24T00:00:00Z,42.8,-103.52,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+238136,1071389,1133523663,,FOSSIL_SPECIMEN,2001-06-21T00:00:00Z,42.84,-103.6,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+238257,1071510,1133524212,,FOSSIL_SPECIMEN,2001-06-20T00:00:00Z,42.8,-103.52,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+238305,1071558,1133524449,,FOSSIL_SPECIMEN,2001-06-22T00:00:00Z,42.84,-103.6,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+239323,1072576,1133530539,,FOSSIL_SPECIMEN,2003-06-19T00:00:00Z,42.78,-103.58,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+239324,1072577,1133530543,,FOSSIL_SPECIMEN,2003-06-20T00:00:00Z,42.79,-103.51,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+239332,1072585,1133530559,,FOSSIL_SPECIMEN,2003-06-18T00:00:00Z,42.87,-103.6,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii
+239674,1072927,1133535063,,FOSSIL_SPECIMEN,2004-06-24T00:00:00Z,42.78,-103.58,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Merycoidodon culbertsonii,107273,4835270,Merycoidodon culbertsonii

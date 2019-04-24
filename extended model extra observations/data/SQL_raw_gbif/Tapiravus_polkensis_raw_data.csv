@@ -1,0 +1,12 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+787211,1620464,1427569792,,FOSSIL_SPECIMEN,2016-11-30T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+788703,1621956,1571567680,,FOSSIL_SPECIMEN,2017-01-17T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+796466,1629719,1133272003,,FOSSIL_SPECIMEN,1978-07-24T00:00:00Z,27.81,-81.85,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+796496,1629749,1133272556,,FOSSIL_SPECIMEN,1977-07-12T00:00:00Z,27.67,-81.91,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813210,1646463,1133533901,,FOSSIL_SPECIMEN,2004-10-23T00:00:00Z,27.63,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813248,1646501,1133534062,,FOSSIL_SPECIMEN,1990-01-08T00:00:00Z,27.75,-81.96,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813249,1646502,1133534063,,FOSSIL_SPECIMEN,1990-01-08T00:00:00Z,27.75,-81.96,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813253,1646506,1133534071,,FOSSIL_SPECIMEN,1990-01-08T00:00:00Z,27.75,-81.96,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813265,1646518,1133534092,,FOSSIL_SPECIMEN,1990-01-08T00:00:00Z,27.75,-81.96,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813540,1646793,1133539068,,FOSSIL_SPECIMEN,1967-07-20T00:00:00Z,27.75,-81.95,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis
+813712,1646965,1133545715,,FOSSIL_SPECIMEN,2007-10-05T00:00:00Z,27.54,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Tapirus polkensis,107390,4969646,Tapiravus polkensis

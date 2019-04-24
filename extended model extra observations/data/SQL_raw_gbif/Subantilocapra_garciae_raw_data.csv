@@ -1,0 +1,11 @@
+,occurrence_id,gbif_id,occurrence_type,basis_of_record,event_date,decimal_latitude,decimal_longitude,dataset_key,has_geospatial_issues,label,taxonvariant_id,back_key,species
+59942,893195,1831406632,,FOSSIL_SPECIMEN,2017-03-25T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+233750,1067003,1133308385,,FOSSIL_SPECIMEN,1956-06-08T00:00:00Z,27.82,-81.94,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+234617,1067870,1133406219,,FOSSIL_SPECIMEN,1985-08-26T00:00:00Z,27.65,-81.86,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+234761,1068014,1133412142,,FOSSIL_SPECIMEN,1986-09-24T00:00:00Z,27.65,-81.86,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+237042,1070295,1133514090,,FOSSIL_SPECIMEN,1998-10-28T00:00:00Z,27.23,-81.88,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+240016,1073269,1133548220,,FOSSIL_SPECIMEN,2007-07-31T00:00:00Z,27.54,-82.06,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+423000,1256253,1802519258,,FOSSIL_SPECIMEN,2017-02-21T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+625442,1458695,1315214701,,FOSSIL_SPECIMEN,2016-04-18T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+679997,1513250,1316538926,,FOSSIL_SPECIMEN,2016-05-10T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae
+680001,1513254,1316539663,,FOSSIL_SPECIMEN,2016-05-02T00:00:00Z,29.31,-82.43,2fba9985-ac30-46cb-99bf-91ccde0d8d2f,0,Subantilocapra garciae,107380,8838341,Subantilocapra garciae

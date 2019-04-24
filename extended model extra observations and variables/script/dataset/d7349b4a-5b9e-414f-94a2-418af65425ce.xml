@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d7349b4a-5b9e-414f-94a2-418af65425ce"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.5063/f1qc01qk</alternateIdentifier>
+        <alternateIdentifier>10.15468/yoxxna</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr8212</alternateIdentifier>
+        <alternateIdentifier>b2584cc1-bbce-3581-96da-26694587da92</alternateIdentifier>
+    <title>Conservation Atlas Surveys</title>
+    <creator>
+<organizationName>Conservation Atlas Surveys</organizationName>    <address>
+<deliveryPoint>PO Box 4292</deliveryPoint><city>St Lucia</city><administrativeArea>Queensland</administrativeArea><postalCode>4067</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>a.specht@uq.edu.au</electronicMailAddress><onlineUrl>http://www.aceas.org.au/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=109</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Conservation Atlas Surveys</organizationName>    <address>
+<deliveryPoint>PO Box 4292</deliveryPoint><city>St Lucia</city><administrativeArea>Queensland</administrativeArea><postalCode>4067</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>a.specht@uq.edu.au</electronicMailAddress><onlineUrl>http://www.aceas.org.au/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=109</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>In the first few decades of European settlement this ranged from descriptions by explorers and new settlers, artists&amp;#39; drawings, through to specimens sent to international herbaria and museums. In the late 19th Century, more systematic observations were published and formed the basis of today’s quantitative approaches. The early surveys were haphazard in terms of location, survey method and species coverage with little attempt to co-ordinate the work nationally. As a contribution to the IBP (International Biological Programme), the Conservation Survey of Australia (Specht et al. 1974) lists the major and minor plant communities extracted from the published literature and the unpublished field experience of plant ecologists. These data were incorporated into a committee-based delineation of Australia’s plant communities. The great number of tree species (20 to 140) that coexist in subtropical and tropical plant communities in Australia, from the arid to the humid evaporative zones made the definition of statistically “homogeneous” suites within the vegetation a challenge compared with temperate plant ecology with relatively low numbers of overstorey species per hectare (1 to 10 in number). In consequence a systematic numeric classification system (polythetic-divisive classificatory program TWINSPAN (Hill, 1973)) was used to better define these units for conservation assessment. Complete species lists (several floristic lists could therefore not be included) reported by 705 sources (from the refereed literature, government surveys and theses) for plant communities throughout the continent since the 1890s were compiled and collated into sixteen data segments arranged according to structural formation (Figure 1). These were analyzed using the then CSIRO Division of Computing Research CSIRONet facilities based on the presence or absence of a species in each list to determine objectively-defined plant communities. These communities were then linked to their conservation status . A spatially-represented outcome of this work was published 1995 (Specht et al., 1995).
+An extraction of vegetation species by location data from published and unpublished papers and reports</para>
+    </abstract>
+      <additionalInfo>
+          <para>None</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr8212</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Continental Australia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>112</westBoundingCoordinate>
+                      <eastBoundingCoordinate>155</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-10</northBoundingCoordinate>
+                      <southBoundingCoordinate>-55</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1879-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1996-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>From publications (including &apos;grey&apos; literature).</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Species identification was assumed correct at the time of the original publication. Names originally databased needed to be updated to match the current names in the ALA using procedures in http://doi.org/10.5063/F1QC01QK. Temporal resolution was extracted from original publications at the level of resolution nominated. The location of sites was re-evaluated against current satellite and vegetation type layers in the ALA and adjusted accordingly. Dwc:coordinateUncertaintyInMeters was estimated for the various vegetation types.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2019-04-05T12:33:54Z</dateStamp>
+      <citation>The University of Queensland (2018). Conservation Atlas Surveys. Occurrence dataset https://doi.org/10.5063/f1qc01qk accessed via GBIF.org on 2019-04-05.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
