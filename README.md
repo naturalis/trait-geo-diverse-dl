@@ -10,3 +10,5 @@ modelling (ENM-DL). The repository consists of three sub-projects:
 - [data_extended](data_extended) - incorporates additional occurrence data. The
   purpose of this project is to develop insight into the number of occurrences
   that needs to be collected for credible modelling.
+- [data_GIS_extended](data_GIS_extended) - also incorporates additional GIS
+  data.
