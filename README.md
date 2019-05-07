@@ -16,4 +16,4 @@ modelling (ENM-DL). The repository consists of three sub-projects:
  <br>
  <br>
  
-![](images/deeplearning.png)
+![](images/dl_sdm.PNG)
