@@ -103,3 +103,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Large files
+*stacked*.tif
+*.npy
+*raster_clip.tif
+*.dbf
+DNN_global_predictions/
