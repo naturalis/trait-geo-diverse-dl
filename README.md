@@ -12,3 +12,8 @@ modelling (ENM-DL). The repository consists of three sub-projects:
   that needs to be collected for credible modelling.
 - [data_GIS_extended](data_GIS_extended) - also incorporates additional GIS
   data.
+ 
+ <br>
+ <br>
+ 
+![](images/deeplearning.png)
