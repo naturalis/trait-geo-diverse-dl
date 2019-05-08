@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/176246204.svg)](https://zenodo.org/badge/latestdoi/176246204)
+
 # trait-geo-diverse-dl
 
 This repository develops the application of deep learning to ecological niche
