@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/176246204.svg)](https://zenodo.org/badge/latestdoi/176246204)
+
 # trait-geo-diverse-dl
 
 This repository develops the application of deep learning to ecological niche
@@ -16,4 +18,4 @@ modelling (ENM-DL). The repository consists of three sub-projects:
  <br>
  <br>
  
-![](images/deeplearning.png)
+![](images/dl_sdm.PNG)
