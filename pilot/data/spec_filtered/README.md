@@ -1,5 +1,5 @@
 
-Filtered occurrence data based Hendrix \& Vos
+Filtered occurrence data based on Hendrix \& Vos
 -------------------------------------------
 
 Occurrence data was collected from GBIF using higher taxon searches for _Artiodactyla_ and
