@@ -29,7 +29,7 @@ Both the [Bioclim](http://worldclim.org/version2) dataset and the [ENVIREM](http
 2. aridityIndexThornthwaite Thornthwaite aridity index
 3. climaticMoistureIndex Metric of relative wetness and aridity
 4. continentality Average temp. of warmest and coldest month
-5. embergerQ Emberger’s pluviothermic quotient
+5. embergerQ Embergerâ€™s pluviothermic quotient
 6. growingDegDays0 Sum of months with temperatures greater than 0 degrees
 7. growingDegDays5 Sum of months with temperatures greater than 5 degrees
 8. maxTempColdestMonth Maximum temp. of the coldest month
@@ -57,3 +57,11 @@ The soil characteristics are extracted from the [Land-Atmosphere Interaction Res
 4. Organic carbon 
 
 ![](images/ph.PNG)
+
+# Stacked rasters datasets
+## env_stacked
+The env_stacked dataset contains the 41 rasters described above stacked into a single GeoTiff
+
+## spec_raster_clip
+For each species a clip of the stacked raster GeoTiff was made based on the species IUCN range and this raster was used to
+generate pseudo-absence locations in
