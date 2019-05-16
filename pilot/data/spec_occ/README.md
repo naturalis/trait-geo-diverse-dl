@@ -1,1 +1,1 @@
--This folder contains the csv files with filtered occurrences and 1000 generated pseudo-absence locations for each species.
+- This folder contains the csv files with filtered occurrences and 1000 generated pseudo-absence locations for each species.
