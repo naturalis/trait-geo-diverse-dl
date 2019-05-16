@@ -1,1 +1,0 @@
-- Here you find the csv files with filtered occurrences, pseudo-absence points and the corresponding environmental variable values at each of these locations
