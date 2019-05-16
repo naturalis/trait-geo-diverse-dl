@@ -60,8 +60,9 @@ The soil characteristics are extracted from the [Land-Atmosphere Interaction Res
 
 # Stacked rasters datasets
 ## env_stacked
-The env_stacked dataset contains the 41 rasters described above stacked into a single GeoTiff
+The [env_stacked](env_stacked) dataset contains the 41 rasters described above stacked into a single GeoTiff. This folder also contains
+a list of all the variable descriptions of the different bands in the GeoTiff.
 
-## spec_raster_clip
-For each species a clip of the stacked raster GeoTiff was made based on the species IUCN range and this raster was used to
+## spec_stacked_raster_clip
+For each species a [clip](spec_stacked_raster_clip) of the stacked raster GeoTiff was made based on the species IUCN range and this raster was used to
 generate pseudo-absence locations in
