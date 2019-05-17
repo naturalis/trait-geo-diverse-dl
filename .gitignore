@@ -110,6 +110,5 @@ venv.bak/
 *.npy
 *raster_clip.tif
 *.dbf
-DNN_global_predictions/
-data_GIS_extended/results/
-data_extended/results/
+
+
