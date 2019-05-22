@@ -31,7 +31,6 @@ current_5arcmin_maxTempColdest
 current_5arcmin_minTempWarmest
 current_5arcmin_monthCountByTemp10
 current_5arcmin_PETColdestQuarter
-current_5arcmin_PETColdestQuarter_2 - Copy
 current_5arcmin_PETDriestQuarter
 current_5arcmin_PETseasonality
 current_5arcmin_PETWarmestQuarter
@@ -40,7 +39,6 @@ current_5arcmin_thermicityIndex
 OrganicCarbon_5min
 PhCaCL_5min
 Slope_5deg
-Slope_5deg_2 - Copy
 AboveGroundBiomass_1950
 AboveGroundBiomass_1955
 AboveGroundBiomass_1960
