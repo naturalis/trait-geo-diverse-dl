@@ -1,22 +1,22 @@
-bio1 Annual Mean Temperature
-bio2 Mean Diurnal Range (Mean of monthly (max temp - min temp))
-bio3 Isothermality (BIO2/BIO7) (* 100)
-bio4 Temperature Seasonality (standard deviation *100)
-bio5 Max Temperature of Warmest Month
-bio6 Min Temperature of Coldest Month
-bio7 Temperature Annual Range (BIO5-BIO6)
-bio8 Mean Temperature of Wettest Quarter
-bio9 Mean Temperature of Driest Quarter
-bio10 Mean Temperature of Warmest Quarter
-bio11 Mean Temperature of Coldest Quarter
-bio12 Annual Precipitation
-bio13 Precipitation of Wettest Month
-bio14 Precipitation of Driest Month
-bio15 Precipitation Seasonality (Coefficient of Variation)
-bio16 Precipitation of Wettest Quarter
-bio17 Precipitation of Driest Quarter
-bio18 Precipitation of Warmest Quarter
-bio19 Precipitation of Coldest Quarter
+bio1 Annual Mean Temperature	
+bio2 Mean Diurnal Range (Mean of monthly (max temp - min temp))	
+bio3 Isothermality (BIO2/BIO7) (* 100)	
+bio4 Temperature Seasonality (standard deviation *100)	
+bio5 Max Temperature of Warmest Month	
+bio6 Min Temperature of Coldest Month	
+bio7 Temperature Annual Range (BIO5-BIO6)	
+bio8 Mean Temperature of Wettest Quarter	
+bio9 Mean Temperature of Driest Quarter	
+bio10 Mean Temperature of Warmest Quarter	
+bio11 Mean Temperature of Coldest Quarter	
+bio12 Annual Precipitation	
+bio13 Precipitation of Wettest Month	
+bio14 Precipitation of Driest Month	
+bio15 Precipitation Seasonality (Coefficient of Variation)	
+bio16 Precipitation of Wettest Quarter	
+bio17 Precipitation of Driest Quarter	
+bio18 Precipitation of Warmest Quarter	
+bio19 Precipitation of Coldest Quarter	
 Aspect_5deg
 BulkDensity_5min
 ClayPercentage_5min
@@ -39,188 +39,6 @@ current_5arcmin_thermicityIndex
 OrganicCarbon_5min
 PhCaCL_5min
 Slope_5deg
-AboveGroundBiomass_1950
-AboveGroundBiomass_1955
-AboveGroundBiomass_1960
-AboveGroundBiomass_1965
-AboveGroundBiomass_1970
-AboveGroundBiomass_1975
-AboveGroundBiomass_1980
-AboveGroundBiomass_1985
-AboveGroundBiomass_1990
-AboveGroundBiomass_1995
-AboveGroundBiomass_2000
-AboveGroundBiomass_2005
-AboveGroundBiomass_2010
-AGB_ha_1950
-AGB_ha_1955
-AGB_ha_1960
-AGB_ha_1965
-AGB_ha_1970
-AGB_ha_1975
-AGB_ha_1980
-AGB_ha_1985
-AGB_ha_1990
-AGB_ha_1995
-AGB_ha_2000
-AGB_ha_2005
-AGB_ha_2010
-area_1950
-area_1955
-area_1960
-area_1965
-area_1970
-area_1975
-area_1980
-area_1985
-area_1990
-area_1995
-area_2000
-area_2005
-area_2010
-BrBCEF_1950
-BrBCEF_1955
-BrBCEF_1960
-BrBCEF_1965
-BrBCEF_1970
-BrBCEF_1975
-BrBCEF_1980
-BrBCEF_1985
-BrBCEF_1990
-BrBCEF_1995
-BrBCEF_2000
-BrBCEF_2005
-BrBCEF_2010
-ConBCEF_1950
-ConBCEF_1955
-ConBCEF_1960
-ConBCEF_1965
-ConBCEF_1970
-ConBCEF_1975
-ConBCEF_1980
-ConBCEF_1985
-ConBCEF_1990
-ConBCEF_1995
-ConBCEF_2000
-ConBCEF_2005
-ConBCEF_2010
-ConiferShare_1950
-ConiferShare_1955
-ConiferShare_1960
-ConiferShare_1965
-ConiferShare_1970
-ConiferShare_1975
-ConiferShare_1980
-ConiferShare_1985
-ConiferShare_1990
-ConiferShare_1995
-ConiferShare_2000
-ConiferShare_2005
-ConiferShare_2010
-ForestStockChange_1950
-ForestStockChange_1955
-ForestStockChange_1960
-ForestStockChange_1965
-ForestStockChange_1970
-ForestStockChange_1975
-ForestStockChange_1980
-ForestStockChange_1985
-ForestStockChange_1990
-ForestStockChange_1995
-ForestStockChange_2000
-ForestStockChange_2005
-ForestStockChange_2010
-Forest_carbonstock_1950
-Forest_carbonstock_1955
-Forest_carbonstock_1960
-Forest_carbonstock_1965
-Forest_carbonstock_1970
-Forest_carbonstock_1975
-Forest_carbonstock_1980
-Forest_carbonstock_1985
-Forest_carbonstock_1990
-Forest_carbonstock_1995
-Forest_carbonstock_2000
-Forest_carbonstock_2005
-Forest_carbonstock_2010
-R_1950
-R_1955
-R_1960
-R_1965
-R_1970
-R_1975
-R_1980
-R_1985
-R_1990
-R_1995
-R_2000
-R_2005
-R_2010
-stockperarea_1950
-stockperarea_1955
-stockperarea_1960
-stockperarea_1965
-stockperarea_1970
-stockperarea_1975
-stockperarea_1980
-stockperarea_1985
-stockperarea_1990
-stockperarea_1995
-stockperarea_2000
-stockperarea_2005
-stockperarea_2010
-stock_1950
-stock_1955
-stock_1960
-stock_1965
-stock_1970
-stock_1975
-stock_1980
-stock_1985
-stock_1990
-stock_1995
-stock_2000
-stock_2005
-stock_2010
-Total_Biomass_1950
-Total_Biomass_1955
-Total_Biomass_1960
-Total_Biomass_1965
-Total_Biomass_1970
-Total_Biomass_1975
-Total_Biomass_1980
-Total_Biomass_1985
-Total_Biomass_1990
-Total_Biomass_1995
-Total_Biomass_2000
-Total_Biomass_2005
-Total_Biomass_2010
-Unc_Area_1950
-Unc_Area_1955
-Unc_Area_1960
-Unc_Area_1965
-Unc_Area_1970
-Unc_Area_1975
-Unc_Area_1980
-Unc_Area_1985
-Unc_Area_1990
-Unc_Area_1995
-Unc_Area_2000
-Unc_Area_2005
-Unc_Area_2010
-Unc_GS_1950
-Unc_GS_1955
-Unc_GS_1960
-Unc_GS_1965
-Unc_GS_1970
-Unc_GS_1975
-Unc_GS_1980
-Unc_GS_1985
-Unc_GS_1990
-Unc_GS_1995
-Unc_GS_2000
-Unc_GS_2005
-Unc_GS_2010
 Boreal_Forests_Taiga_map
 Deserts_and_Xeric_Shrublands_map
 Flooded_Grasslands_and_Savannas_map
