@@ -110,5 +110,5 @@ venv.bak/
 *.npy
 *raster_clip.tif
 *.dbf
-
+*TERRESTRIAL_MAMMALS.shp
 
