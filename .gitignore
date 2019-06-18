@@ -111,4 +111,4 @@ venv.bak/
 *raster_clip.tif
 *.dbf
 *TERRESTRIAL_MAMMALS.shp
-
+*occurrences_all_species.csv
