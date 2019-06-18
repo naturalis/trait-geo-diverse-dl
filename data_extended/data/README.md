@@ -1,0 +1,3 @@
+The data folder contains the [GIS data](GIS) with a resolution of 5 degrees, the shapefile with the [IUCN ranges](IUCN_mammal_ranges) of the world's terrestrial mammals and four types of occurrence datasets. 
+Firstly the [raw occurrences](SQL_raw_gbif) from the world's ungulate species extracted from GBIF, secondly the [filtered occurrences](SQL_filtered_gbif), thirdly the [filtered occurrences and pseudo-absences](spec_ppa),
+and finally a dataset including the [environmental variable values](spec_ppa_env) at all occurrence and pseudo-absence locations.

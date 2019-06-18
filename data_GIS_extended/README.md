@@ -1,0 +1,3 @@
+-	[Data](data) contains the GIS and species occurrence input data.
+-	[Results](results) contains the model outputs and the models themselves.
+-	[Script](script) contains the scripts used to prepare the input data and variables as well as the eventual modelling of the data.
