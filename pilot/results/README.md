@@ -14,5 +14,5 @@ model predictions over the entire globe this results in are provided in the bott
 | Species occurrence             |  Variable importance |
 :-------------------------:|:-------------------------:
 <img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/pilot/results/Aepyceros_melampus/Aepyceros_melampus_occurrence_map.png" alt="drawing" width="400"/> |<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/pilot/results/Aepyceros_melampus/Aepyceros_melampus_feature_impact.png" alt="drawing" width="400"/>
-| Predicted distribution            |
-<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/pilot/results/Aepyceros_melampus/Aepyceros_melampus_predicted_map_color.png" alt="drawing" width="800"/> 
+|   |
+<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/pilot/results/Aepyceros_melampus/Aepyceros_melampus_predicted_map_color.png" alt="drawing" width="800"/>
