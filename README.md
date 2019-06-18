@@ -18,4 +18,4 @@ modelling (ENM-DL). The repository consists of three sub-projects:
  <br>
  <br>
  
-![](images/dl_sdm.PNG)
+![](images/DL-ENM.png)
