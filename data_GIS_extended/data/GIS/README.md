@@ -85,14 +85,13 @@ Additional attribute metrics per ecoregion from the The World Atlas of Conservat
 5. Plant species richness
 
 ## Species co-occurrence.
-Species occurrence raster maps created for 124 species, list can be found in [Taxa list](https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/data/SQL_filtered_gbif/taxa_list.txt)
+Species occurrence raster maps created for 124 species, list of species can be found in [Taxa list](https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/data/SQL_filtered_gbif/taxa_list.txt)
 
 
 # Stacked raster datasets
 ## env_stacked
-The [env_stacked](env_stacked) folder contains the environmental variable rasters stacked into a single GeoTiff, the file itself is not uploaded on Github as it's size is too large.
-as well as a text file containing the variable descriptions for each of the 186 bands in the GeoTiff.
+The [env_stacked](env_stacked) folder contains the environmental variable rasters stacked into a single GeoTiff, the file itself is not uploaded on Github as it's size is too large. Next to this, the folder contains a text file containing the variable descriptions for each of the 186 bands in the GeoTiff.
 
 ## stacked raster clips
-A [clip](spec_stacked_raster_clip) was made of the GeoTiff for each species, based on its IUCN range.
+A clip was made of the GeoTiff for each species, based on its IUCN range.
 However, this clip was not uploaded to Github as file sizes were too large.
