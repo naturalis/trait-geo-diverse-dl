@@ -11,6 +11,6 @@ most weight to during training, with each dot representing a single sample. Aggr
 
 | Species occurrence             |  Variable importance |
 :-------------------------:|:-------------------------:
-<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_gis_extended/results/Aepyceros_melampus/Aepyceros_melampus_occurrence_map.png" alt="drawing" width="400"/> |<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_gis_extended/results/Aepyceros_melampus/Aepyceros_melampus_feature_impact.png" alt="drawing" width="400"/>
+<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/results/Aepyceros_melampus/Aepyceros_melampus_occurrence_map.png" alt="drawing" width="400"/> |<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/results/Aepyceros_melampus/Aepyceros_melampus_feature_impact.png" alt="drawing" width="400"/>
 
-<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_gis_extended/results/Aepyceros_melampus/Aepyceros_melampus_predicted_map_color.png" alt="drawing" width="800"/>
+<img src="https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/results/Aepyceros_melampus/Aepyceros_melampus_predicted_map_color.png" alt="drawing" width="800"/>
