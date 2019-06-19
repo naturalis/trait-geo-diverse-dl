@@ -1,0 +1,1 @@
+- This folder contains the filtered GBIF occurrences for all species. To check the filtering steps applied, check the [Filtering GBIF records](https://github.com/naturalis/trait-geo-diverse-dl/blob/master/data_GIS_extended/script/1.Filter_GBIF_records_from_SQL_database.ipynb) script.

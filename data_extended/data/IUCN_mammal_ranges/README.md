@@ -1,6 +1,3 @@
-# Data
-The data folder contains GIS data and the filtered occurence datasets obtained from GBIF. 
-
-- [GIS data](GIS)
-- [Filtered data](filtered)
+# IUCN range
+- This folder contains the shapefile the IUNC ranges of all terrestrial mammals and supporting files.
 
