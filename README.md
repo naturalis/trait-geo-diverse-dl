@@ -6,7 +6,7 @@ This repository develops the application of deep learning to species distributio
 modelling (DL-SDM). The repository consists of three sub-projects:
 
 - [pilot](pilot) - contains the same occurrences and GIS data as used in this
-  [classical](https://github.com/naturalis/trait-geo-diverse-ungulates) application of a MaxEnt SDM to determine ecological niches.
+  [application](https://github.com/naturalis/trait-geo-diverse-ungulates) of a MaxEnt SDM to determine ecological niches of the world's ungulates.
   The purpose of this subproject is to assess the performance of DL-SDM in a
   like for like comparison with MaxEnt modelling.
 - [data_extended](data_extended) - incorporates additional occurrence data. The
